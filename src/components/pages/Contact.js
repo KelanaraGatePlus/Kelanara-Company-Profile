@@ -3,14 +3,11 @@ import Layout from "../Layout";
 import '../../App.css';
 import Footer from "../Footer";
 import Contactbutton from "../Contactbutton";
-import { useNavigate } from "react-router-dom";
 
 const Contact = () => {
     const [languangeID, setLanguageID] = useState(null);
     const [languangeEN, setLanguageEN] = useState(null);
     const [activeLanguage, setActiveLanguage] = useState('ID');
-
-    const navigate = useNavigate();
 
     useEffect(() => {
         const savedLanguage = localStorage.getItem('language');

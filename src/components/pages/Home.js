@@ -95,16 +95,6 @@ const Home = () => {
     setIsPlaying(true);
   };
 
-  const handleNext = () => {
-    setCurrentVideoIndex((prev) => (prev + 1) % videos.length);
-    setIsPlaying(false);
-  };
-
-  const handlePrev = () => {
-    setCurrentVideoIndex((prev) => (prev - 1 + videos.length) % videos.length);
-    setIsPlaying(false);
-  };
-
   const handleProjectClick = (projectItem) => {
     navigate(`/project/${projectItem.id}`, { state: { projectItem } });
   };
@@ -201,6 +191,7 @@ const Home = () => {
               src={`https://www.youtube.com/embed/${videos[currentVideoIndex]?.id}?autoplay=1&modestbranding=1&showinfo=0&controls=1&rel=0&fs=1&color=white&disablekb=1&playsinline=1&iv_load_policy=3&enablejsapi=1`}
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               className="intro playing"
+              title="YouTube Video Player"
             ></iframe>
           )}
           <div className="bottom-wrapper">

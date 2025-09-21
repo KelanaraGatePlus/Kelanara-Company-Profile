@@ -3,14 +3,10 @@ import { Link } from "react-router-dom";
 import './Footer.css';
 
 const Footer = () => {
-    const [activeLanguage, setActiveLanguage] = useState('ID');
     const [languageData, setLanguageData] = useState(null);
 
     useEffect(() => {
         const savedLanguage = localStorage.getItem('language');
-        if (savedLanguage) {
-            setActiveLanguage(savedLanguage);
-        }
 
         const languageFile = savedLanguage === 'ID' ? '/data/languangeID.json' : '/data/languangeEN.json';
         fetch(languageFile)
@@ -60,11 +56,11 @@ const Footer = () => {
                     <div className="information">
                         <div className="address">
                             <p className="title">PT JERO MEDIA ABADI</p>
-                            <p className="the-address">XL Axiata Tower, 10th Floor<br/>Jl. H. R. Rasuna Said X5 Kav. 11-12<br/>Kuningan Tim.<br />Kecamatan Setiabudi<br />DKI Jakarta<br />12950</p>
+                            <p className="the-address">XL Axiata Tower, 10th Floor<br />Jl. H. R. Rasuna Said X5 Kav. 11-12<br />Kuningan Tim.<br />Kecamatan Setiabudi<br />DKI Jakarta<br />12950</p>
                         </div>
                         <div className="contact">
                             <p className="title">Contact Person</p>
-                            <p className="the-contact">+62 2150955747<br/>kelanarastudio@gmail.com</p>
+                            <p className="the-contact">+62 2150955747<br />kelanarastudio@gmail.com</p>
                         </div>
                     </div>
 

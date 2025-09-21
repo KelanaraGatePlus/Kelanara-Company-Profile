@@ -5,7 +5,6 @@ import Footer from "../Footer";
 
 const Project = () => {
     const [projects, setProjects] = useState([]);
-    const [clients, setClients] = useState([]);
     const [languangeID, setLanguageID] = useState(null);
     const [languangeEN, setLanguageEN] = useState(null);
     const [activeLanguage, setActiveLanguage] = useState('ID');
@@ -26,20 +25,6 @@ const Project = () => {
             })
             .then(projects_data => {
                 setProjects(projects_data);
-            })
-            .catch(error => {
-                console.error('There has been a problem with your fetch operation:', error);
-            });
-
-        fetch('/data/clients.json')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Network response was not ok ' + response.statusText);
-                }
-                return response.json();
-            })
-            .then(clients_data => {
-                setClients(clients_data);
             })
             .catch(error => {
                 console.error('There has been a problem with your fetch operation:', error);
@@ -86,7 +71,7 @@ const Project = () => {
                     </div>
                 ))}
             </div>
-            
+
 
             <Footer />
         </>

@@ -58,7 +58,6 @@ const ProjectCarousel = ({ projects }) => {
 };
 
 const AboutUs = () => {
-  const [expertise, setExpertises] = useState([]);
   const [folk, setFolks] = useState([]);
   const [projects, setProjects] = useState([]);
   const [clients, setClients] = useState([]);
@@ -67,12 +66,12 @@ const AboutUs = () => {
   const [activeLanguage, setActiveLanguage] = useState("ID");
   const navigate = useNavigate();
 
-  const interpartnershipPagePath = "/interpartnership"; 
+  const interpartnershipPagePath = "/interpartnership";
   const gateplusWebsiteUrl = "https://www.gateplus.id/";
   const tamanaInstagramUrl = "https://www.instagram.com/tamana_mg?igsh=MTU3bGc3NmU5aHQ5dQ==";
 
   const gateplusLogo = "/img/logo/Logo Gateplus.jpg";
-  const tamanaLogo = "/img/logo/tamana.png"; 
+  const tamanaLogo = "/img/logo/tamana.png";
 
   const handleInterpartnershipClick = () => {
     navigate(interpartnershipPagePath);
@@ -87,23 +86,6 @@ const AboutUs = () => {
     if (savedLanguage) {
       setActiveLanguage(savedLanguage);
     }
-
-    fetch("/data/expertise.json")
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("Network response was not ok " + response.statusText);
-        }
-        return response.json();
-      })
-      .then((expertise_data) => {
-        setExpertises(expertise_data);
-      })
-      .catch((error) => {
-        console.error(
-          "There has been a problem with your fetch operation:",
-          error
-        );
-      });
 
     fetch("/data/folks.json")
       .then((response) => {
@@ -167,10 +149,6 @@ const AboutUs = () => {
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
 
-  const handleProjectClick = (projectItem) => {
-    navigate(`/project/${projectItem.id}`, { state: { projectItem } });
-  };
-
   return (
     <>
       <Layout containerClass="about-container" />
@@ -178,9 +156,9 @@ const AboutUs = () => {
         <div className="title-container">
           <h2 className="title">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.about.title ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.about.title ? (
               languangeID[2].about.about.title
             ) : activeLanguage === "EN" &&
               languangeEN &&
@@ -195,9 +173,9 @@ const AboutUs = () => {
         <div className="description-container">
           <p className="description">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.about.welcome ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.about.welcome ? (
               languangeID[2].about.about.welcome
             ) : activeLanguage === "EN" &&
               languangeEN &&
@@ -210,9 +188,9 @@ const AboutUs = () => {
           </p>
           <p className="description">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.about.desc1 ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.about.desc1 ? (
               languangeID[2].about.about.desc1
             ) : activeLanguage === "EN" &&
               languangeEN &&
@@ -225,9 +203,9 @@ const AboutUs = () => {
           </p>
           <p className="description">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.about.desc2 ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.about.desc2 ? (
               languangeID[2].about.about.desc2
             ) : activeLanguage === "EN" &&
               languangeEN &&
@@ -240,9 +218,9 @@ const AboutUs = () => {
           </p>
           <p className="description">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.about.desc3 ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.about.desc3 ? (
               languangeID[2].about.about.desc3
             ) : activeLanguage === "EN" &&
               languangeEN &&
@@ -255,9 +233,9 @@ const AboutUs = () => {
           </p>
           <p className="description">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.about.desc4 ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.about.desc4 ? (
               languangeID[2].about.about.desc4
             ) : activeLanguage === "EN" &&
               languangeEN &&
@@ -270,9 +248,9 @@ const AboutUs = () => {
           </p>
           <p className="description-up">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.about.desc5 ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.about.desc5 ? (
               languangeID[2].about.about.desc5
             ) : activeLanguage === "EN" &&
               languangeEN &&
@@ -285,9 +263,9 @@ const AboutUs = () => {
           </p>
           <p className="description">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.about.desc6 ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.about.desc6 ? (
               languangeID[2].about.about.desc6
             ) : activeLanguage === "EN" &&
               languangeEN &&
@@ -305,9 +283,9 @@ const AboutUs = () => {
           <div className="text">
             <h2 className="title">
               {activeLanguage === "ID" &&
-              languangeID &&
-              languangeID[2] &&
-              languangeID[2].about.expertise.title ? (
+                languangeID &&
+                languangeID[2] &&
+                languangeID[2].about.expertise.title ? (
                 languangeID[2].about.expertise.title
               ) : activeLanguage === "EN" &&
                 languangeEN &&
@@ -323,9 +301,9 @@ const AboutUs = () => {
             <div className="expertise-item">
               <p className="expert-title">
                 {activeLanguage === "ID" &&
-                languangeID &&
-                languangeID[2] &&
-                languangeID[2].about.expertise.item1.title ? (
+                  languangeID &&
+                  languangeID[2] &&
+                  languangeID[2].about.expertise.item1.title ? (
                   languangeID[2].about.expertise.item1.title
                 ) : activeLanguage === "EN" &&
                   languangeEN &&
@@ -338,9 +316,9 @@ const AboutUs = () => {
               </p>
               <p className="expert-desc">
                 {activeLanguage === "ID" &&
-                languangeID &&
-                languangeID[2] &&
-                languangeID[2].about.expertise.item1.description ? (
+                  languangeID &&
+                  languangeID[2] &&
+                  languangeID[2].about.expertise.item1.description ? (
                   languangeID[2].about.expertise.item1.description
                 ) : activeLanguage === "EN" &&
                   languangeEN &&
@@ -355,9 +333,9 @@ const AboutUs = () => {
             <div className="expertise-item">
               <p className="expert-title">
                 {activeLanguage === "ID" &&
-                languangeID &&
-                languangeID[2] &&
-                languangeID[2].about.expertise.item2.title ? (
+                  languangeID &&
+                  languangeID[2] &&
+                  languangeID[2].about.expertise.item2.title ? (
                   languangeID[2].about.expertise.item2.title
                 ) : activeLanguage === "EN" &&
                   languangeEN &&
@@ -370,9 +348,9 @@ const AboutUs = () => {
               </p>
               <p className="expert-desc">
                 {activeLanguage === "ID" &&
-                languangeID &&
-                languangeID[2] &&
-                languangeID[2].about.expertise.item2.description ? (
+                  languangeID &&
+                  languangeID[2] &&
+                  languangeID[2].about.expertise.item2.description ? (
                   languangeID[2].about.expertise.item2.description
                 ) : activeLanguage === "EN" &&
                   languangeEN &&
@@ -387,9 +365,9 @@ const AboutUs = () => {
             <div className="expertise-item">
               <p className="expert-title">
                 {activeLanguage === "ID" &&
-                languangeID &&
-                languangeID[2] &&
-                languangeID[2].about.expertise.item3.title ? (
+                  languangeID &&
+                  languangeID[2] &&
+                  languangeID[2].about.expertise.item3.title ? (
                   languangeID[2].about.expertise.item3.title
                 ) : activeLanguage === "EN" &&
                   languangeEN &&
@@ -402,9 +380,9 @@ const AboutUs = () => {
               </p>
               <p className="expert-desc">
                 {activeLanguage === "ID" &&
-                languangeID &&
-                languangeID[2] &&
-                languangeID[2].about.expertise.item3.description ? (
+                  languangeID &&
+                  languangeID[2] &&
+                  languangeID[2].about.expertise.item3.description ? (
                   languangeID[2].about.expertise.item3.description
                 ) : activeLanguage === "EN" &&
                   languangeEN &&
@@ -419,9 +397,9 @@ const AboutUs = () => {
             <div className="expertise-item">
               <p className="expert-title">
                 {activeLanguage === "ID" &&
-                languangeID &&
-                languangeID[2] &&
-                languangeID[2].about.expertise.item4.title ? (
+                  languangeID &&
+                  languangeID[2] &&
+                  languangeID[2].about.expertise.item4.title ? (
                   languangeID[2].about.expertise.item4.title
                 ) : activeLanguage === "EN" &&
                   languangeEN &&
@@ -434,9 +412,9 @@ const AboutUs = () => {
               </p>
               <p className="expert-desc">
                 {activeLanguage === "ID" &&
-                languangeID &&
-                languangeID[2] &&
-                languangeID[2].about.expertise.item4.description ? (
+                  languangeID &&
+                  languangeID[2] &&
+                  languangeID[2].about.expertise.item4.description ? (
                   languangeID[2].about.expertise.item4.description
                 ) : activeLanguage === "EN" &&
                   languangeEN &&
@@ -454,9 +432,9 @@ const AboutUs = () => {
       <div className="folks">
         <h2 className="text">
           {activeLanguage === "ID" &&
-          languangeID &&
-          languangeID[2] &&
-          languangeID[2].about.folks.title ? (
+            languangeID &&
+            languangeID[2] &&
+            languangeID[2].about.folks.title ? (
             languangeID[2].about.folks.title
           ) : activeLanguage === "EN" &&
             languangeEN &&
@@ -469,9 +447,9 @@ const AboutUs = () => {
           <div className="folks-intro-section">
             <p className="folks-intro-desc">
               {activeLanguage === "ID" &&
-              languangeID &&
-              languangeID[2] &&
-              languangeID[2].about.folks.description ? (
+                languangeID &&
+                languangeID[2] &&
+                languangeID[2].about.folks.description ? (
                 languangeID[2].about.folks.description
               ) : activeLanguage === "EN" &&
                 languangeEN &&
@@ -487,14 +465,14 @@ const AboutUs = () => {
         <div className="folks-grid-layout">
           {folk.length > 0 && (
             <div className="folks-row folks-row-first">
-                <div key={0} className="folk-item">
-                  <img src={folk[0].img} alt={folk[0].name} className="image" />
-                  <p className="folk-title">
-                    {folk[0].name}
-                    <br />
-                    {folk[0].title}
-                  </p>
-                </div>
+              <div key={0} className="folk-item">
+                <img src={folk[0].img} alt={folk[0].name} className="image" />
+                <p className="folk-title">
+                  {folk[0].name}
+                  <br />
+                  {folk[0].title}
+                </p>
+              </div>
             </div>
           )}
           {folk.length > 1 && (
@@ -527,14 +505,14 @@ const AboutUs = () => {
           )}
         </div>
 
-        <p 
-          className="interpartnership-text collective-link text-style" 
+        <p
+          className="interpartnership-text collective-link text-style"
           onClick={handleInterpartnershipClick}
         >
           {activeLanguage === "ID" &&
-          languangeID &&
-          languangeID[2] &&
-          languangeID[2].about.inpartnershipLink ? (
+            languangeID &&
+            languangeID[2] &&
+            languangeID[2].about.inpartnershipLink ? (
             languangeID[2].about.inpartnershipLink
           ) : activeLanguage === "EN" &&
             languangeEN &&
@@ -563,9 +541,9 @@ const AboutUs = () => {
       <div className="project-intro-section">
         <h2 className="project-intro-title">
           {activeLanguage === "ID" &&
-          languangeID &&
-          languangeID[2] &&
-          languangeID[2].about.whyKelanara.title ? (
+            languangeID &&
+            languangeID[2] &&
+            languangeID[2].about.whyKelanara.title ? (
             languangeID[2].about.whyKelanara.title
           ) : activeLanguage === "EN" &&
             languangeEN &&
@@ -578,9 +556,9 @@ const AboutUs = () => {
         </h2>
         <p className="project-intro-desc">
           {activeLanguage === "ID" &&
-          languangeID &&
-          languangeID[2] &&
-          languangeID[2].about.whyKelanara.description ? (
+            languangeID &&
+            languangeID[2] &&
+            languangeID[2].about.whyKelanara.description ? (
             languangeID[2].about.whyKelanara.description
           ) : activeLanguage === "EN" &&
             languangeEN &&
@@ -597,9 +575,9 @@ const AboutUs = () => {
         <div className="title">
           <h2 className="text">
             {activeLanguage === "ID" &&
-            languangeID &&
-            languangeID[2] &&
-            languangeID[2].about.client.title ? (
+              languangeID &&
+              languangeID[2] &&
+              languangeID[2].about.client.title ? (
               languangeID[2].about.client.title
             ) : activeLanguage === "EN" &&
               languangeEN &&

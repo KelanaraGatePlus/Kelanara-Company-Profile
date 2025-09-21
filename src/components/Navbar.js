@@ -6,11 +6,9 @@ const Navbar = () => {
     const location = useLocation();
     const [activeLanguage, setActiveLanguage] = useState('ID');
     const [languageData, setLanguageData] = useState(null);
-    const [isMobile, setIsMobile] = useState(false);
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
     const handleResize = () => {
-        setIsMobile(window.innerWidth <= 768);
         if (window.innerWidth > 768) {
             setIsMenuOpen(false); // Ensure menu closes on resize
         }

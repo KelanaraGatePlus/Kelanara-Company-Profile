@@ -3,13 +3,12 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import Home from "./components/pages/Home";
 import AboutUs from "./components/pages/AboutUs";
-import KelanaraPlus from "./components/pages/KelanaraPlus";
 import News from "./components/pages/News";
 import NewsDetails from "./components/pages/NewsDetails";
 import Contact from "./components/pages/Contact";
 import Project from "./components/pages/Project";
 import ProjectDetails from "./components/pages/ProjectDetails";
-import Interpartnership from "./components/pages/Interpartnership"; 
+import Interpartnership from "./components/pages/Interpartnership";
 
 function App() {
   return (
