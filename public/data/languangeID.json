@@ -1,0 +1,120 @@
+[
+    {
+        "navbar": {
+            "home": "Beranda",
+            "about": "Tentang",
+            "kelanara": "Kelanara+",
+            "project": "Proyek",
+            "media": "Media",
+            "contact": "Kontak",
+            "back": "Kembali"
+        }
+    },
+    {
+        "home": {
+            "headline": "Kelanara Studio",
+            "slogan": "Menulis Rahasia Yang Hanya Ditemukan Dalam Kegelapan.",
+            "about": {
+                "title": "Tentang",
+                "aboutBtn": "Baca Selengkapnya",
+                "description": "Setiap Cerita Pasti Bermakna",
+                "welcome": "Selalu ada makna di balik cerita. Oleh karena itu, kami ingin membantu untuk menyebarkannya!",
+                "welcomeDescription": "Kelanara Studio adalah tim penuh semangat yang bergerak di jasa promosi digital dan produksi film. Kecintaan kami pada dunia film-dan segala keajaiban yang dihadirkannya, mendasari komitmen kami untuk mewujudkan ide sinematik menjadi karya yang tak hanya memukau, tapi juga menjangkau lebih banyak penonton melalui strategi digital yang tepat."
+            },
+            "project": {
+                "text": "Video terbaru di youtube.",
+                "title": "Proyek Unggulan"
+            },
+            "client": {
+                "title": "Klien Kami"
+            },
+            "news": {
+                "title": "Berita Unggulan"
+            }
+        }
+    },
+    {
+        "about": {
+            "about": {
+                "title": "Tentang Kelanara",
+                "welcome": "Selamat Datang di Kelanara!",
+                "desc1": "Kami adalah tim penuh semangat yang mencintai dunia film dan segala keajaiban yang dihadirkannya. Di Kelanara, kami tidak hanya berfokus pada penulisan dan promosi, tetapi juga berkomitmen untuk menciptakan film yang menghibur, menyentuh hati, dan menginspirasi penonton.",
+                "desc2": "Kami percaya bahwa setiap cerita memiliki keunikan serta gaya magis tersendiri, dan di dalamnya kami berperan. Tim kami terdiri dari penulis kreatif, sutradara berbakat, dan pemasar andal yang siap menjelajahi berbagai cara untuk menghidupkan beragam ide cemerlang.",
+                "desc3": "Kami membuka pintu lebar pula bagi para talenta, baik yang baru maupun yang sudah berpengalaman, untuk berkolaborasi mencipta karya segar dan menarik. Bersama-sama, kita akan menghadirkan cerita menghibur dan memperkaya jiwa.",
+                "desc4": "Bergabunglah dengan kami di Kelanara, tempat dimana cerita menjadi hidup dan memberikan makna bagi semua yang menyaksikannya. Mari berkarya, dan membawa cerita yang menghubungkan kita semua!",
+                "desc5": "Misi Kami",
+                "desc6": "Kami percaya bahwa setiap cerita memiliki keunikan serta gaya magis tersendiri, yang dapat menginspirasi, menyentuh hati, dan menghubungkan banyak orang. Oleh karena itu, kami punya misi untuk menyihir karya sinematik Anda agar gaya magisnya bisa keluar dan sampai pada target pasar yang tepat. Melalui promosi karya visual yang tak sekedar estetik, tapi juga bermakna."
+            },
+            "expertise": {
+                "title": "Keahlian",
+                "item1": {
+                    "title": "Promosi Digital",
+                    "description": "Kami berperan sebagai Advertising Agency, yang mana merancang strategi promosi digital secara kreatif. Mulai dari kampanye media sosial, teaser interaktif, hingga aktivasi komunitas, supaya karya sinematik Anda dapat mencapai audiens yang tepat. Kami mengusahakan pendekatan promosi yang kreatif, terukur, serta menyentuh hati."
+                },
+                "item2": {
+                    "title": "Pengembangan Kekayaan Intelektual (IP)",
+                    "description": "Kami percaya, setiap ide memiliki potensinya sendiri untuk menjadi cerita yang menarik. Kami membantu mewujudkan dan mengembangkan ide tersebut sebagai Kekayaan Intelektual (IP) yang kuat dan berkelanjutan. Mulai dari konsep, karakter, hingga ekspansi lintas platform. IP bukan hanya aset kreatif, namun juga identitas masa depan."
+                },
+                "item3": {
+                    "title": "Produksi Film",
+                    "description": "Sebagai pecinta Film, terwujudnya karya sinematik adalah impian tertinggi. Karena itu, kami menciptakan film dengan cerita yang menggugah, sinematografi kuat, dan pendekatan produksi yang efisien. Baik film pendek, dokumenter, hingga konten berseri, kami hadir untuk menghidupkan cerita dari berbagai sudut pandang."
+                },
+                "item4": {
+                    "title": "Aplikasi & OTT (Over-the-Top)",
+                    "description": "Untuk mempermudah akses terhadap karya film dan IP yang menarik, kami mengembangkan platform aplikasi dan konten OTT. Dengan pendekatan yang inovatif, kami menghadirkan ruang baru bagi kreator dan penikmat karya untuk saling terhubung di mana pun."
+                }
+            },
+            "folks": {
+                "title": "Kru/Tim",
+                "description": "Tim kami terdiri dari penulis kreatif, sutradara berbakat, dan pemasar andal yang siap menjelajahi berbagai cara untuk menghidupkan beragam ide cemerlang."
+            },
+            "whyKelanara": {
+                "title": "Kenapa memilih Kelanara Studio?",
+                "description": "Kelanara Studio diisi oleh orang-orang berpengalaman yang berhasil dalam proyek-proyek film bioskop yang sukses. Portofolio terbaru dari klien kami dapat dilihat dibawah ini!"
+            },
+            "client": {
+                "title": "Klien Kami"
+            },
+            "inpartnershipLink" : "Kelanara In Partner Ship",
+            "inpartnershipTitle": "Foto-foto Inpartnership",
+            "inpartnershipDesc": "Ini adalah kumpulan foto-foto dari berbagai kolaborasi dan inpartnership kami."
+        }
+    },
+    {
+        "project": {
+            "project": {
+                "title": "Semua Proyek Kelanara"
+            },
+            "whyKelanara": {
+                "title": "Kenapa memilih Kelanara Studio?",
+                "description": "Kelanara Studio diisi oleh orang-orang berpengalaman yang berhasil dalam proyek-proyek film bioskop yang sukses. Portofolio terbaru dari klien kami dapat dilihat dibawah ini!"
+            },
+            "client": {
+                "title": "Klien Kami"
+            }
+        }
+    },
+    {
+        "media": {
+            "project": {
+                "text": "Video terbaru di youtube."
+            },
+            "news": {
+                "title": "Berita Unggulan",
+                "direction": "Selanjutnya"
+            },
+            "podcast": {
+                "direction": "Selanjutnya"
+            }
+        }
+    },
+    {
+        "contact": {
+            "contact": {
+                "title": "Mari Bergabung dan Berkarya Bersama!",
+                "text": "Kami membuka pintu lebar untuk kolaborasi kreatif, baik bagi talenta baru maupun profesional industri. Jika Anda tertarik bekerja sama, silahkan hubungi kami di:",
+                "followUs": "Ikuti Kami"
+            }
+        }
+    }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 1",
+    "title": "Nama Partner 1",
+    "role": "Peran"
+  },
+  {
+    "id": 2,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 2",
+    "title": "Nama Partner 2",
+    "role": "Peran"
+  },
+  {
+    "id": 3,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 3",
+    "title": "Nama Partner 3",
+    "role": "Peran"
+  },
+  {
+    "id": 4,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 4",
+    "title": "Nama Partner 4",
+    "role": "Peran"
+  },
+  {
+    "id": 5,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 5",
+    "title": "Nama Partner 5",
+    "role": "Peran"
+  },
+  {
+    "id": 6,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 6",
+    "title": "Nama Partner 6",
+    "role": "Peran"
+  },
+  {
+    "id": 7,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 7",
+    "title": "Nama Partner 7",
+    "role": "Peran"
+  },
+  {
+    "id": 8,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 8",
+    "title": "Nama Partner 8",
+    "role": "Peran"
+  },
+  {
+    "id": 9,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 9",
+    "title": "Nama Partner 9",
+    "role": "Peran"
+  },
+  {
+    "id": 10,
+    "src": "/img/folks/Photo Frame.jpg",
+    "alt": "Foto Partner 10",
+    "title": "Nama Partner 10",
+    "role": "Peran"
+  }
+]

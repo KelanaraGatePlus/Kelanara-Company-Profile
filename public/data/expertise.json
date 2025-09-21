@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Promotion",
+        "desc": "We act as an Advertising Agency, creatively designing digital promotion strategies. From social media campaigns, interactive teasers, to community activations, so that your cinematic work can reach the right audience. We strive for a creative, measurable, and heartfelt promotional approach."
+    },
+    {
+        "id": 2,
+        "title": "Intellectual Property (IP) Development",
+        "desc": "We believe that every idea has its own potential to become a compelling story. We help realize and develop those ideas as strong and sustainable Intellectual Property (IP). From concept, character, to cross-platform expansion. IP is not only a creative asset, but also a future identity."
+    },
+    {
+        "id": 3,
+        "title": "Film Production",
+        "desc": "As film lovers, the realization of cinematic works is the ultimate dream. Therefore, we create films with evocative stories, strong cinematography, and efficient production approaches. Be it short films, documentaries, or serialized content, we are here to bring stories to life from various perspectives."
+    },
+    {
+        "id": 4,
+        "title": "Applications & OTT (Over-the-Top)",
+        "desc": "To make it easier to access exciting film and IP works, we developed an OTT content and app platform. With our innovative approach, we create new spaces for creators and audiences to connect on the go."
+    }
+]
+

@@ -1,0 +1,120 @@
+[
+    {
+        "navbar": {
+            "home": "Home",
+            "about": "About",
+            "kelanara": "Kelanara+",
+            "project": "Project",
+            "media": "Media",
+            "contact": "Contact",
+            "back": "Back"
+        }
+    },
+    {
+        "home": {
+            "headline": "Kelanara Studio",
+            "slogan": "Writing Secrets That Are Only Found In The Darkness.",
+            "about": {
+                "title": "About",
+                "aboutBtn": "Read More",
+                "description": "Every Story Has a Meaning",
+                "welcome": "There is always meaning behind stories. Therefore, we want to help you spread it!",
+                "welcomeDescription": "Kelanara Studio is a passionate team engaged in digital promotion and film production services. Our love for the world of film—and all the magic it brings—underlies our commitment to turn cinematic ideas into works that aren’t only great, but also reach more audiences through the right digital strategy."
+            },
+            "project": {
+                "text": "Latest video on youtube.",
+                "title": "Featured Projects"
+            },
+            "client": {
+                "title": "Our Clients"
+            },
+            "news": {
+                "title": "Featured News"
+            }
+        }
+    },
+    {
+        "about": {
+            "about": {
+                "title": "About Kelanara",
+                "welcome": "Welcome to Kelanara!",
+                "desc1": "We are a passionate team who love the world of film and all the wonders it brings. At Kelanara, we are not only focused on writing and pitching, but are also committed to creating films that entertain, touch and inspire the audience.",
+                "desc2": "We believe that every story has its own unique and magical style, and that’s where we come in. Our team consists of creative writers, talented directors, and skilled marketers who are ready to explore different ways to bring brilliant ideas to life.",
+                "desc3": "We also open our doors wide for talents, both new and experienced, to collaborate to create fresh and interesting works. Together, we will present entertaining and enriching stories.",
+                "desc4": "Join us at Kelanara, a place where stories come alive and give meaning to all who witness them. Let's create, inspire, and bring stories that connect us all!",
+                "desc5": "Our Mission",
+                "desc6": "We believe that every story has its own magic and uniqueness, which can inspire and connect people. Therefore, we have a mission to conjure your cinematic work, so “the magic” of your story can come out and reach the right target market. Through the promotion of visual works that are not only aesthetic, but also meaningful."
+            },
+            "expertise": {
+                "title": "Expertise",
+                "item1": {
+                    "title": "Digital Promotion",
+                    "description": "We act as an Advertising Agency, creatively designing digital promotion strategies. From social media campaigns, interactive teasers, to community activations, so that your cinematic work can reach the right audience. We strive for a creative, measurable, and heartfelt promotional approach."
+                },
+                "item2": {
+                    "title": "Intellectual Property (IP) Development",
+                    "description": "We believe that every idea has its own potential to become a compelling story. We help realize and develop those ideas as strong and sustainable Intellectual Property (IP). From concept, character, to cross-platform expansion. IP is not only a creative asset, but also a future identity."
+                },
+                "item3": {
+                    "title": "Film Production",
+                    "description": "As film lovers, the realization of cinematic works is the ultimate dream. Therefore, we create films with evocative stories, strong cinematography, and efficient production approaches. Be it short films, documentaries, or serialized content, we are here to bring stories to life from various perspectives."
+                },
+                "item4": {
+                    "title": "Applications & OTT (Over-the-Top)",
+                    "description": "To make it easier to access exciting film and IP works, we developed an OTT content and app platform. With our innovative approach, we create new spaces for creators and audiences to connect on the go."
+                }
+            },
+            "folks": {
+                "title": "Crew/Folks",
+                "description": "Our team consists of creative writers, talented directors, and skilled marketers who are ready to explore different ways to bring brilliant ideas to life."
+            },
+            "whyKelanara": {
+                "title": "Why Kelanara Studio?",
+                "description": "Kelanara Studio is filled with experienced people who succeeded in big cinema film projects. A recent portfolio of our clients can be seen below!"
+            },
+            "client": {
+                "title": "Our Clients"
+            },
+            "inpartnershipLink" : "Kelanara In Partner Ship",
+            "inpartnershipTitle": "Inpartnership Photos",
+            "inpartnershipDesc": "This is a collection of photos from our various collaborations and inpartnerships."
+        }
+    },
+    {
+        "project": {
+            "project": {
+                "title": "All Kelanara Projects"
+            },
+            "whyKelanara": {
+                "title": "Why Kelanara Studio?",
+                "description": "Kelanara Studio is filled with experienced people who succeeded in big cinema film projects. A recent portfolio of our clients can be seen below!"
+            },
+            "client": {
+                "title": "Our Clients"
+            }
+        }
+    },
+    {
+        "media": {
+            "project": {
+                "text": "Latest video on youtube."
+            },
+            "news": {
+                "title": "Featured News",
+                "direction": "Next"
+            },
+            "podcast": {
+                "direction": "Next"
+            }
+        }
+    },
+    {
+        "contact": {
+            "contact": {
+                "title": "Let's join and work together!",
+                "text": "We're open for creative collaborations, both for emerging talents and industry professionals. If you are interested in working together, please contact us at:",
+                "followUs": "Follow Us"
+            }
+        }
+    }
+]

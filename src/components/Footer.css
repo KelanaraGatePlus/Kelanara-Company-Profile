@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --black: #121212;
+  --white: #FFFF;
+}
+
+* {
+  font-family: "Hanken Grotesk", sans-serif;
+}
+
+.footer-container{
+    background: url('/img/footer bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    padding: 90px 90px 20px 90px;
+}
+
+.footer-container .menu-socmend-info-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper {
+    align-items: center;
+}
+
+.footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .social-media {
+    display: flex;
+    gap: 10px; /* Adjust gap as needed */
+    margin-bottom: 5%;
+}
+
+.footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .social-media .icon:hover {
+    transform: scale(1.1)
+}
+
+.footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .menu {
+    display: flex;
+    gap: 20px; /* Space between menu items */
+}
+
+.footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .menu .menu-text {
+    color: var(--white);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .menu .menu-text:hover {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+.footer-container .menu-socmend-info-wrapper .information-wrapper .logo-kelanara {
+    margin-left: 8%;
+    margin-bottom: 3%;
+}
+
+.footer-container .menu-socmend-info-wrapper .information-wrapper .information {
+    display: flex;
+    gap: 70px;
+}
+
+.footer-container .menu-socmend-info-wrapper .information-wrapper .information .address .title {
+    color: var(--white);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.footer-container .menu-socmend-info-wrapper .information-wrapper .information .address .the-address {
+    color: var(--white);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer-container .menu-socmend-info-wrapper .information-wrapper .information .contact .title {
+    color: var(--white);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.footer-container .menu-socmend-info-wrapper .information-wrapper .information .contact .the-contact {
+    color: var(--white);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer-container .line {
+    width: 100%;
+    height: 1px; 
+    background: #888; 
+    margin-top: 100px;
+}
+
+.footer-container .copyright .text {
+    color: var(--white);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 15px;
+}
+
+@media screen and (max-width: 1024px) {
+    .footer-container {
+        padding: 60px 40px 20px 40px;
+    }
+
+    .footer-container .line {
+        width: 100%;
+        margin-top: 60px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .menu {
+        gap: 15px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information {
+        gap: 40px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .menu .menu-text {
+        font-size: 18px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information .address .title,
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information .contact .title,
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information .address .the-address,
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information .contact .the-contact {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer-container {
+        padding: 40px 20px 20px 20px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper {
+        order: 2;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .information-wrapper {
+        order: 1;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .menu {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .social-media {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .logo-kelanara {
+        display: none;
+    }
+
+    .footer-container .copyright .text {
+        text-align: center;
+    }
+}
+
+/* For mobile phones */
+@media screen and (max-width: 480px) {
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information {
+        flex-direction: column;
+        gap: 30px;
+        text-align: center;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .menu-socmed-wrapper .menu .menu-text {
+        font-size: 16px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information .address .title,
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information .contact .title,
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information .address .the-address,
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .information .contact .the-contact {
+        font-size: 16px;
+    }
+
+    .footer-container .copyright .text {
+        font-size: 14px;
+    }
+
+    .footer-container .menu-socmend-info-wrapper .information-wrapper .logo-kelanara {
+        display: none;
+    }
+}

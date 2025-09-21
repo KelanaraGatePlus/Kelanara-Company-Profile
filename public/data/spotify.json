@@ -1,0 +1,2077 @@
+{
+    "available_markets": [
+        "AD",
+        "AE",
+        "AG",
+        "AL",
+        "AM",
+        "AR",
+        "AT",
+        "AU",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BJ",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KI",
+        "KN",
+        "KR",
+        "KW",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "TH",
+        "TL",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "UA",
+        "US",
+        "UY",
+        "VC",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "ZA"
+    ],
+    "copyrights": [],
+    "description": "Selamat datang di Kelanara Studio, tempat di mana imajinasi bertemu dengan realitas. Dalam podcast kami, kami menghadirkan pengalaman audio book experience, mempersembahkan kisah-kisah penuh misteri, sejarah kelam, dan mitos masyarakat yang menarik.  Sambutlah Kelanara Studio, podcast yang akan membawa Anda ke dalam perjalanan tak terduga melalui dunia kata-kata dan suara.",
+    "html_description": "Selamat datang di Kelanara Studio, tempat di mana imajinasi bertemu dengan realitas. Dalam podcast kami, kami menghadirkan pengalaman audio book experience, mempersembahkan kisah-kisah penuh misteri, sejarah kelam, dan mitos masyarakat yang menarik.<br/>Sambutlah Kelanara Studio, podcast yang akan membawa Anda ke dalam perjalanan tak terduga melalui dunia kata-kata dan suara.",
+    "explicit": true,
+    "external_urls": {
+        "spotify": "https://open.spotify.com/show/59FJaTwB849012CCtAEnN1"
+    },
+    "href": "https://api.spotify.com/v1/shows/59FJaTwB849012CCtAEnN1",
+    "id": "59FJaTwB849012CCtAEnN1",
+    "images": [
+        {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6765630000ba8af445329421f6dd79170f0b58",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67656300005f1ff445329421f6dd79170f0b58",
+            "width": 300
+        },
+        {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab6765630000f68df445329421f6dd79170f0b58",
+            "width": 64
+        }
+    ],
+    "is_externally_hosted": false,
+    "languages": [
+        "en"
+    ],
+    "media_type": "mixed",
+    "name": "Kelanara Studio",
+    "publisher": "Kelanara Studio",
+    "type": "show",
+    "uri": "spotify:show:59FJaTwB849012CCtAEnN1",
+    "total_episodes": 49,
+    "episodes": {
+        "href": "https://api.spotify.com/v1/shows/59FJaTwB849012CCtAEnN1/episodes?offset=0&limit=50",
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 49,
+        "items": [
+            null,
+            null,
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2BRDZu38HxlKbqr1nDwdfc/clip_369530_429530.mp3",
+                "description": "Dalam video kali ini, kita akan menyelami kehidupan Grigori Yefimovich Rasputin, seorang pria yang dikenal karena pengaruh besarnya dalam kerajaan Rusia, khususnya pada keluarga Tsar Nicholas II. Dari awal hidupnya yang sederhana hingga menjadi figur yang begitu kontroversial di istana, Rasputin mempengaruhi banyak keputusan politik penting dan membawa dampak besar pada sejarah Rusia.Siapakah sebenarnya Rasputin? Bagaimana bisa seorang petani Rusia yang dianggap seorang \"orang suci\" ini mendapatkan kepercayaan besar dari keluarga Tsar dan menjadi bagian integral dalam pemerintahan Rusia? Apakah benar Rasputin memiliki kekuatan gaib yang membuatnya begitu dihormati dan ditakuti? Atau justru ada agenda politik yang lebih besar di balik kisah hidupnya?Tonton video ini untuk mengetahui lebih dalam tentang Rasputin, tokoh yang hingga kini masih menjadi misteri, dengan kisah penuh intrik, politik, dan perubahan besar yang mengarah pada revolusi Rusia!",
+                "html_description": "<p>Dalam video kali ini, kita akan menyelami kehidupan Grigori Yefimovich Rasputin, seorang pria yang dikenal karena pengaruh besarnya dalam kerajaan Rusia, khususnya pada keluarga Tsar Nicholas II. Dari awal hidupnya yang sederhana hingga menjadi figur yang begitu kontroversial di istana, Rasputin mempengaruhi banyak keputusan politik penting dan membawa dampak besar pada sejarah Rusia.Siapakah sebenarnya Rasputin? Bagaimana bisa seorang petani Rusia yang dianggap seorang &#34;orang suci&#34; ini mendapatkan kepercayaan besar dari keluarga Tsar dan menjadi bagian integral dalam pemerintahan Rusia? Apakah benar Rasputin memiliki kekuatan gaib yang membuatnya begitu dihormati dan ditakuti? Atau justru ada agenda politik yang lebih besar di balik kisah hidupnya?Tonton video ini untuk mengetahui lebih dalam tentang Rasputin, tokoh yang hingga kini masih menjadi misteri, dengan kisah penuh intrik, politik, dan perubahan besar yang mengarah pada revolusi Rusia!</p>",
+                "duration_ms": 677511,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0Ct5k5BIK0wyhSLOYYyFI3"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0Ct5k5BIK0wyhSLOYYyFI3",
+                "id": "0Ct5k5BIK0wyhSLOYYyFI3",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a5aa93f337b1d1cf0af6c3e6e",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f5aa93f337b1d1cf0af6c3e6e",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d5aa93f337b1d1cf0af6c3e6e",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Rasputin: Tokoh Misterius yang Mengubah Sejarah Rusia",
+                "release_date": "2025-02-20",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0Ct5k5BIK0wyhSLOYYyFI3"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3hnODjv6dg7sM73UZqwwDx/clip_0_60000.mp3",
+                "description": "Pada episode kali ini, saya akan membahas fenomena orang yang mengaku indigo, serta membedakan apakah itu benar kemampuan luar biasa atau justru merupakan tanda gangguan mental seperti halusinasi dan delusi. Kita akan membahas apa itu halusinasi dan delusi, penyebabnya, serta bagaimana cara penanganannya. Jangan buru-buru menganggap seseorang yang mengaku indigo sebagai paranormal, bisa jadi mereka sebenarnya membutuhkan bantuan medis. Yuk, simak penjelasan lengkapnya, dan ingat untuk selalu berpikir cerdas dalam menilai fenomena ini! Jangan lupa untuk like, komen, subscribe, dan nyalakan loncengnya untuk update video-video terbaru dari Kelanara Studio.",
+                "html_description": "<p>Pada episode kali ini, saya akan membahas fenomena orang yang mengaku indigo, serta membedakan apakah itu benar kemampuan luar biasa atau justru merupakan tanda gangguan mental seperti halusinasi dan delusi. Kita akan membahas apa itu halusinasi dan delusi, penyebabnya, serta bagaimana cara penanganannya. Jangan buru-buru menganggap seseorang yang mengaku indigo sebagai paranormal, bisa jadi mereka sebenarnya membutuhkan bantuan medis. Yuk, simak penjelasan lengkapnya, dan ingat untuk selalu berpikir cerdas dalam menilai fenomena ini! Jangan lupa untuk like, komen, subscribe, dan nyalakan loncengnya untuk update video-video terbaru dari Kelanara Studio.</p>",
+                "duration_ms": 1065734,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0IVZkNc75TpOkhBh98y7U6"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0IVZkNc75TpOkhBh98y7U6",
+                "id": "0IVZkNc75TpOkhBh98y7U6",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ae3c701167f81723310adcc6f",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fe3c701167f81723310adcc6f",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68de3c701167f81723310adcc6f",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Indigo atau Gangguan Mental? Misteri Halusinasi dan Delusi yang Menyeramkan! | Podcast Bau Tanah",
+                "release_date": "2025-02-19",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0IVZkNc75TpOkhBh98y7U6"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7y2AAMTcVesgbfBz6cvQjL/clip_442305_502305.mp3",
+                "description": "Di video kali ini, kita akan mengungkap kisah mistis dari Alas Purwo, sebuah tempat angker di selatan Banyuwangi, Jawa Timur. Dari kepercayaan tentang kerajaan gaib, Nyi Roro Kidul, hingga mitos keris pusaka Sumelang Gandring, Alas Purwo dikenal dengan aura mistisnya yang kental. Namun, di balik cerita-cerita tersebut, Alas Purwo juga merupakan taman nasional yang kaya akan ekosistem unik dan beragam, menjadi rumah bagi banyak spesies langka.Apakah kamu berani menjelajahi tempat yang penuh misteri ini? Yuk, simak cerita lengkapnya di video ini dan jangan lupa untuk Like, Comment, Subscribe, dan Nyalakan Loncengnya agar kamu tidak ketinggalan update terbaru dari Kelanara Studio!#AlasPurwo#MisteriMistis#TamanNasional#JawaTimur#CeritaAngker#NyiRoroKidul#WisataAngker#AlamLestari#KelanaraStudio",
+                "html_description": "<p>Di video kali ini, kita akan mengungkap kisah mistis dari Alas Purwo, sebuah tempat angker di selatan Banyuwangi, Jawa Timur. Dari kepercayaan tentang kerajaan gaib, Nyi Roro Kidul, hingga mitos keris pusaka Sumelang Gandring, Alas Purwo dikenal dengan aura mistisnya yang kental. Namun, di balik cerita-cerita tersebut, Alas Purwo juga merupakan taman nasional yang kaya akan ekosistem unik dan beragam, menjadi rumah bagi banyak spesies langka.Apakah kamu berani menjelajahi tempat yang penuh misteri ini? Yuk, simak cerita lengkapnya di video ini dan jangan lupa untuk Like, Comment, Subscribe, dan Nyalakan Loncengnya agar kamu tidak ketinggalan update terbaru dari Kelanara Studio!<a href=\"https://www.youtube.com/hashtag/alaspurwo\" rel=\"nofollow\">#AlasPurwo</a><a href=\"https://www.youtube.com/hashtag/misterimistis\" rel=\"nofollow\">#MisteriMistis</a><a href=\"https://www.youtube.com/hashtag/tamannasional\" rel=\"nofollow\">#TamanNasional</a><a href=\"https://www.youtube.com/hashtag/jawatimur\" rel=\"nofollow\">#JawaTimur</a><a href=\"https://www.youtube.com/hashtag/ceritaangker\" rel=\"nofollow\">#CeritaAngker</a><a href=\"https://www.youtube.com/hashtag/nyirorokidul\" rel=\"nofollow\">#NyiRoroKidul</a><a href=\"https://www.youtube.com/hashtag/wisataangker\" rel=\"nofollow\">#WisataAngker</a><a href=\"https://www.youtube.com/hashtag/alamlestari\" rel=\"nofollow\">#AlamLestari</a><a href=\"https://www.youtube.com/hashtag/kelanarastudio\" rel=\"nofollow\">#KelanaraStudio</a></p>",
+                "duration_ms": 614237,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0J7DaZ52k9FYwOkwdKl4xd"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0J7DaZ52k9FYwOkwdKl4xd",
+                "id": "0J7DaZ52k9FYwOkwdKl4xd",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a8723ecf2b0171b60b913f495",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f8723ecf2b0171b60b913f495",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d8723ecf2b0171b60b913f495",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Menyingkap Mitos dan Fakta Alas Purwo, Tempat Angker di Jawa Timur | Podcast Bau Tanah",
+                "release_date": "2025-02-18",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0J7DaZ52k9FYwOkwdKl4xd"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3pbFlU3XmbXjWRyhSvVS7y/clip_497029_557029.mp3",
+                "description": "Apakah kamu pernah mendengar tentang Babi Ngepet, sebuah mitos yang berkaitan dengan praktik gaib untuk mendapatkan kekayaan secara instan? Dalam video ini, kami akan mengungkapkan asal-usul, ritual, dan kepercayaan yang melatarbelakangi fenomena misterius ini. Dari ritual mistis yang melibatkan perubahan wujud manusia menjadi babi hutan, hingga kisah di balik kepercayaan yang berkembang di kalangan masyarakat Indonesia, terutama di Jawa.Apa yang membuat Babi Ngepet begitu unik dibandingkan dengan makhluk gaib lain seperti Werewolf? Mengapa babi hutan dipilih sebagai sosok dalam ritual pesugihan ini? Temukan jawabannya, dan jangan lewatkan juga penelusuran sejarah yang menghubungkan mitos ini dengan masa tanam paksa di abad 19.Tonton video ini untuk mengetahui lebih dalam tentang misteri yang masih hidup dalam budaya kita hingga sekarang! Jangan lupa untuk like, komen, dan subscribe agar kamu tidak ketinggalan update terbaru dari Klanara Studio!🔔 Aktifkan lonceng notifikasi agar kamu selalu mendapatkan video terbaru dari kami.#BabiNgepet#Pesugihan#MitosIndonesia#CeritaMistik#Kelanarastudio#GunungKawi#CeritaRakyat#Misteri#IlmuHitam#Folklore#Jawa#PesugihanBabiNgepet",
+                "html_description": "<p>Apakah kamu pernah mendengar tentang Babi Ngepet, sebuah mitos yang berkaitan dengan praktik gaib untuk mendapatkan kekayaan secara instan? Dalam video ini, kami akan mengungkapkan asal-usul, ritual, dan kepercayaan yang melatarbelakangi fenomena misterius ini. Dari ritual mistis yang melibatkan perubahan wujud manusia menjadi babi hutan, hingga kisah di balik kepercayaan yang berkembang di kalangan masyarakat Indonesia, terutama di Jawa.Apa yang membuat Babi Ngepet begitu unik dibandingkan dengan makhluk gaib lain seperti Werewolf? Mengapa babi hutan dipilih sebagai sosok dalam ritual pesugihan ini? Temukan jawabannya, dan jangan lewatkan juga penelusuran sejarah yang menghubungkan mitos ini dengan masa tanam paksa di abad 19.Tonton video ini untuk mengetahui lebih dalam tentang misteri yang masih hidup dalam budaya kita hingga sekarang! Jangan lupa untuk like, komen, dan subscribe agar kamu tidak ketinggalan update terbaru dari Klanara Studio!&#x1f514; Aktifkan lonceng notifikasi agar kamu selalu mendapatkan video terbaru dari kami.<a href=\"https://www.youtube.com/hashtag/babingepet\" rel=\"nofollow\">#BabiNgepet</a><a href=\"https://www.youtube.com/hashtag/pesugihan\" rel=\"nofollow\">#Pesugihan</a><a href=\"https://www.youtube.com/hashtag/mitosindonesia\" rel=\"nofollow\">#MitosIndonesia</a><a href=\"https://www.youtube.com/hashtag/ceritamistik\" rel=\"nofollow\">#CeritaMistik</a><a href=\"https://www.youtube.com/hashtag/kelanarastudio\" rel=\"nofollow\">#Kelanarastudio</a><a href=\"https://www.youtube.com/hashtag/gunungkawi\" rel=\"nofollow\">#GunungKawi</a><a href=\"https://www.youtube.com/hashtag/ceritarakyat\" rel=\"nofollow\">#CeritaRakyat</a><a href=\"https://www.youtube.com/hashtag/misteri\" rel=\"nofollow\">#Misteri</a><a href=\"https://www.youtube.com/hashtag/ilmuhitam\" rel=\"nofollow\">#IlmuHitam</a><a href=\"https://www.youtube.com/hashtag/folklore\" rel=\"nofollow\">#Folklore</a><a href=\"https://www.youtube.com/hashtag/jawa\" rel=\"nofollow\">#Jawa</a><a href=\"https://www.youtube.com/hashtag/pesugihanbabingepet\" rel=\"nofollow\">#PesugihanBabiNgepet</a></p>",
+                "duration_ms": 1001521,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2gMwGN8Sb6lkHTB9oTLcQq"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2gMwGN8Sb6lkHTB9oTLcQq",
+                "id": "2gMwGN8Sb6lkHTB9oTLcQq",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a30f545308ba1beb10c297718",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f30f545308ba1beb10c297718",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d30f545308ba1beb10c297718",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Misteri Babi Ngepet: Ritual Gaib untuk Kekayaan Instan | Podcast Bau Tanah",
+                "release_date": "2025-02-17",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2gMwGN8Sb6lkHTB9oTLcQq"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4XxpQ6IeMu63kQ9K4SXAcY/clip_305012_365012.mp3",
+                "description": "Halo, Teman Kelana! Di video kali ini, kami akan membahas 7 kecelakaan paling mengerikan di Indonesia yang menyisakan luka mendalam bagi keluarga korban dan menjadi peringatan penting tentang keselamatan di jalan. Dari kecelakaan bus di Paiton, hingga tragedi maut di Tol Surabaya-Mojokerto, semua kecelakaan ini menunjukkan betapa pentingnya kewaspadaan dan keselamatan berlalu lintas.Kami juga akan menyajikan informasi mengenai penyebab kecelakaan dan langkah-langkah yang diambil pemerintah untuk mencegah kejadian serupa. Simak video ini untuk memahami lebih dalam tentang tragedi-tragedi tersebut dan belajar dari setiap kisahnya.Jangan lupa untuk LIKE, SHARE, dan SUBSCRIBE agar kamu tidak ketinggalan video-video menarik lainnya. Terima kasih sudah menonton, dan sampai jumpa di video berikutnya!#KecelakaanMengerikan#TragediLaluLintas#Indonesia#Kelana#KeselamatanLaluLintas",
+                "html_description": "<p>Halo, Teman Kelana! Di video kali ini, kami akan membahas 7 kecelakaan paling mengerikan di Indonesia yang menyisakan luka mendalam bagi keluarga korban dan menjadi peringatan penting tentang keselamatan di jalan. Dari kecelakaan bus di Paiton, hingga tragedi maut di Tol Surabaya-Mojokerto, semua kecelakaan ini menunjukkan betapa pentingnya kewaspadaan dan keselamatan berlalu lintas.Kami juga akan menyajikan informasi mengenai penyebab kecelakaan dan langkah-langkah yang diambil pemerintah untuk mencegah kejadian serupa. Simak video ini untuk memahami lebih dalam tentang tragedi-tragedi tersebut dan belajar dari setiap kisahnya.Jangan lupa untuk LIKE, SHARE, dan SUBSCRIBE agar kamu tidak ketinggalan video-video menarik lainnya. Terima kasih sudah menonton, dan sampai jumpa di video berikutnya!<a href=\"https://www.youtube.com/hashtag/kecelakaanmengerikan\" rel=\"nofollow\">#KecelakaanMengerikan</a><a href=\"https://www.youtube.com/hashtag/tragedilalulintas\" rel=\"nofollow\">#TragediLaluLintas</a><a href=\"https://www.youtube.com/hashtag/indonesia\" rel=\"nofollow\">#Indonesia</a><a href=\"https://www.youtube.com/hashtag/kelana\" rel=\"nofollow\">#Kelana</a><a href=\"https://www.youtube.com/hashtag/keselamatanlalulintas\" rel=\"nofollow\">#KeselamatanLaluLintas</a></p>",
+                "duration_ms": 413190,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2q2xFGm50b7E8g2scjZgvN"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2q2xFGm50b7E8g2scjZgvN",
+                "id": "2q2xFGm50b7E8g2scjZgvN",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a41f2af6a46c5e605c3f8cb59",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f41f2af6a46c5e605c3f8cb59",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d41f2af6a46c5e605c3f8cb59",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "7 Kecelakaan Mengerikan yang Mengguncang Indonesia!",
+                "release_date": "2025-02-16",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2q2xFGm50b7E8g2scjZgvN"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4qBjDlxtsnRNr6lL5CKqas/clip_245974_305974.mp3",
+                "description": "Indonesia, negeri yang indah namun penuh misteri. Di balik segala keindahannya, ada sejumlah kasus kelam yang hingga kini belum terpecahkan. Dari pembunuhan mengerikan hingga tragedi yang menyisakan banyak tanda tanya, kami tim Kelanara Studio telah merangkum 7 kasus yang masih menjadi teka-teki besar dalam sejarah Indonesia.  Dari Kasus Setiabudi 13 yang mencekam, hingga kematian tragis Mirna Salihin yang mengguncang tanah air, temukan fakta-fakta mengejutkan yang mungkin belum Anda ketahui. Siapkah Anda mengungkap kebenaran yang tersembunyi di balik misteri ini?  Jangan lupa untuk like, share, dan subscribe untuk terus mengikuti kisah-kisah misterius lainnya. Siapa tahu, jawaban dari teka-teki ini lebih dekat dari yang kita kira...  #KelanaraStudio #KasusMisterius #MisteriIndonesia #TrueCrime",
+                "html_description": "<p>Indonesia, negeri yang indah namun penuh misteri. Di balik segala keindahannya, ada sejumlah kasus kelam yang hingga kini belum terpecahkan. Dari pembunuhan mengerikan hingga tragedi yang menyisakan banyak tanda tanya, kami tim Kelanara Studio telah merangkum 7 kasus yang masih menjadi teka-teki besar dalam sejarah Indonesia.<br/>Dari Kasus Setiabudi 13 yang mencekam, hingga kematian tragis Mirna Salihin yang mengguncang tanah air, temukan fakta-fakta mengejutkan yang mungkin belum Anda ketahui. Siapkah Anda mengungkap kebenaran yang tersembunyi di balik misteri ini?<br/>Jangan lupa untuk like, share, dan subscribe untuk terus mengikuti kisah-kisah misterius lainnya. Siapa tahu, jawaban dari teka-teki ini lebih dekat dari yang kita kira...<br/><a href=\"https://www.youtube.com/hashtag/kelanarastudio\" rel=\"nofollow\">#KelanaraStudio</a> <a href=\"https://www.youtube.com/hashtag/kasusmisterius\" rel=\"nofollow\">#KasusMisterius</a> <a href=\"https://www.youtube.com/hashtag/misteriindonesia\" rel=\"nofollow\">#MisteriIndonesia</a> <a href=\"https://www.youtube.com/hashtag/truecrime\" rel=\"nofollow\">#TrueCrime</a></p>",
+                "duration_ms": 447912,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1r5FCYK42vr8rz4AklaK9a"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1r5FCYK42vr8rz4AklaK9a",
+                "id": "1r5FCYK42vr8rz4AklaK9a",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a794620823add869029c4023b",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f794620823add869029c4023b",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d794620823add869029c4023b",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "7 Kasus Misterius yang Belum Terpecahkan di Indonesia!",
+                "release_date": "2025-01-02",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1r5FCYK42vr8rz4AklaK9a"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/65ErJRLiX3jWRdq2nCgnGp/clip_296563_356563.mp3",
+                "description": "Lautan menyimpan banyak rahasia yang belum terungkap. Dalam video kali ini, kita akan menyelami 7 Misteri Laut Dalam yang mengguncang dunia. Dari Piramida Yonaguni yang terpendam di bawah ombak Jepang, hingga ke Segitiga Bermuda yang legendaris, kita akan mengungkap keanehan-keanehan yang terjadi di kedalaman laut yang misterius.  Jelajahi juga fenomena aneh lainnya seperti Laut Setan (Dragon Triangle) di Jepang, Mariana Trench yang menjadi tempat terdalamm di bumi, serta Anomali Laut Baltik yang membingungkan para ilmuwan. Apa yang tersembunyi di bawah permukaan laut? Apakah ada penjelasan ilmiah untuk semua ini, ataukah dunia laut memang menyimpan lebih banyak misteri daripada yang kita bayangkan?  Tonton video ini untuk mengetahui lebih lanjut tentang keajaiban dan misteri laut yang membuat kita semua bertanya-tanya: Apa yang sebenarnya ada di dalam kedalaman laut yang gelap dan tak terjangkau ini?  Jangan lupa untuk like, subscribe, dan aktifkan notifikasi agar tidak ketinggalan video menarik lainnya!  #MisteriLaut #PiramidaYonaguni #SegitigaBermuda #DragonTriangle #MarianaTrench #LautBaltik #FenomenaLaut #MisteriDunia",
+                "html_description": "<p>Lautan menyimpan banyak rahasia yang belum terungkap. Dalam video kali ini, kita akan menyelami 7 Misteri Laut Dalam yang mengguncang dunia. Dari Piramida Yonaguni yang terpendam di bawah ombak Jepang, hingga ke Segitiga Bermuda yang legendaris, kita akan mengungkap keanehan-keanehan yang terjadi di kedalaman laut yang misterius.<br/>Jelajahi juga fenomena aneh lainnya seperti Laut Setan (Dragon Triangle) di Jepang, Mariana Trench yang menjadi tempat terdalamm di bumi, serta Anomali Laut Baltik yang membingungkan para ilmuwan. Apa yang tersembunyi di bawah permukaan laut? Apakah ada penjelasan ilmiah untuk semua ini, ataukah dunia laut memang menyimpan lebih banyak misteri daripada yang kita bayangkan?<br/>Tonton video ini untuk mengetahui lebih lanjut tentang keajaiban dan misteri laut yang membuat kita semua bertanya-tanya: Apa yang sebenarnya ada di dalam kedalaman laut yang gelap dan tak terjangkau ini?<br/>Jangan lupa untuk like, subscribe, dan aktifkan notifikasi agar tidak ketinggalan video menarik lainnya!<br/><a href=\"https://www.youtube.com/hashtag/misterilaut\" rel=\"nofollow\">#MisteriLaut</a> <a href=\"https://www.youtube.com/hashtag/piramidayonaguni\" rel=\"nofollow\">#PiramidaYonaguni</a> <a href=\"https://www.youtube.com/hashtag/segitigabermuda\" rel=\"nofollow\">#SegitigaBermuda</a> <a href=\"https://www.youtube.com/hashtag/dragontriangle\" rel=\"nofollow\">#DragonTriangle</a> <a href=\"https://www.youtube.com/hashtag/marianatrench\" rel=\"nofollow\">#MarianaTrench</a> <a href=\"https://www.youtube.com/hashtag/lautbaltik\" rel=\"nofollow\">#LautBaltik</a> <a href=\"https://www.youtube.com/hashtag/fenomenalaut\" rel=\"nofollow\">#FenomenaLaut</a> <a href=\"https://www.youtube.com/hashtag/misteridunia\" rel=\"nofollow\">#MisteriDunia</a><br /></p>",
+                "duration_ms": 457758,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2UCuPIaf7PpwtK6GoVnsoC"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2UCuPIaf7PpwtK6GoVnsoC",
+                "id": "2UCuPIaf7PpwtK6GoVnsoC",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a1ce381f65b5e6c265ba4eace",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f1ce381f65b5e6c265ba4eace",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d1ce381f65b5e6c265ba4eace",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "7 Misteri Laut Dalam yang Masih Menjadi Rahasia!",
+                "release_date": "2025-01-01",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2UCuPIaf7PpwtK6GoVnsoC"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0OczmZzmXMs8wcgShuutAM/clip_64311_124311.mp3",
+                "description": "Dalam review kali ini, Kelana Studio membahas film horor terbaru Racun Sangga yang menceritakan tentang santet pemisah rumah tangga dengan latar belakang budaya Kalimantan. Film ini diproduksi oleh Soraya Intercine Film dan disutradarai oleh Rizal Mantovani. Racun Sangga membawa kisah nyata yang penuh dengan ketegangan dan ritual eksotik yang membuatnya menjadi pengalaman horor yang mengerikan. Dengan sinematografi megah dan storytelling yang luar biasa, film ini menyajikan horor yang tak hanya menyeramkan tetapi juga memiliki kekuatan magis yang khas. Jangan lewatkan film ini yang sudah tayang sejak 12 Desember 2024 di bioskop seluruh Indonesia. Saksikan review lengkapnya hanya di Kelana Studio!  Tonton, beri like, dan jangan lupa subscribe untuk review film horor dan lainnya!",
+                "html_description": "<p>Dalam review kali ini, Kelana Studio membahas film horor terbaru Racun Sangga yang menceritakan tentang santet pemisah rumah tangga dengan latar belakang budaya Kalimantan. Film ini diproduksi oleh Soraya Intercine Film dan disutradarai oleh Rizal Mantovani. Racun Sangga membawa kisah nyata yang penuh dengan ketegangan dan ritual eksotik yang membuatnya menjadi pengalaman horor yang mengerikan. Dengan sinematografi megah dan storytelling yang luar biasa, film ini menyajikan horor yang tak hanya menyeramkan tetapi juga memiliki kekuatan magis yang khas. Jangan lewatkan film ini yang sudah tayang sejak 12 Desember 2024 di bioskop seluruh Indonesia. Saksikan review lengkapnya hanya di Kelana Studio!<br/>Tonton, beri like, dan jangan lupa subscribe untuk review film horor dan lainnya!</p>",
+                "duration_ms": 239235,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/45Xa2UfD8re1LGuASmf7ez"
+                },
+                "href": "https://api.spotify.com/v1/episodes/45Xa2UfD8re1LGuASmf7ez",
+                "id": "45Xa2UfD8re1LGuASmf7ez",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab93076ee1a7bfae431c77598",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb93076ee1a7bfae431c77598",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68db93076ee1a7bfae431c77598",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "SANT3T Paling MEM4T1KAN Di KALIMANTAN! Cetul's Review",
+                "release_date": "2024-12-31",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:45Xa2UfD8re1LGuASmf7ez"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1jKYtciZRhFxRqnWKwEMHq/clip_474370_534370.mp3",
+                "description": "Selamat datang di Kelanara Studio! Dalam video kali ini, kita akan menjelajahi kisah 7 negara yang dulunya berkilau dengan kemakmuran, namun kini hanya tinggal kenangan. Dari Kekaisaran Austria-Hongaria yang hancur setelah Perang Dunia I hingga kekaisaran yang menjadikan sejarah dunia, kita akan membahas faktor-faktor yang menyebabkan runtuhnya negara-negara ini.  🎥 Apa yang terjadi pada Ceylon yang megah? Mengapa Jerman terbagi menjadi dua? Apa yang menyebabkan akhir Kekaisaran Ottoman setelah berabad-abad berkuasa? Temukan jawabannya di sini!  💬 Jangan lupa untuk like, share, dan subscribe untuk mendapatkan konten menarik lainnya. Tinggalkan komentar di bawah tentang negara mana yang paling menarik bagi kalian, dan topik apa lagi yang ingin kalian bahas bersama kami.  📅 Sampai jumpa di video berikutnya!",
+                "html_description": "<p>Selamat datang di Kelanara Studio! Dalam video kali ini, kita akan menjelajahi kisah 7 negara yang dulunya berkilau dengan kemakmuran, namun kini hanya tinggal kenangan. Dari Kekaisaran Austria-Hongaria yang hancur setelah Perang Dunia I hingga kekaisaran yang menjadikan sejarah dunia, kita akan membahas faktor-faktor yang menyebabkan runtuhnya negara-negara ini.<br/>&#x1f3a5; Apa yang terjadi pada Ceylon yang megah? Mengapa Jerman terbagi menjadi dua? Apa yang menyebabkan akhir Kekaisaran Ottoman setelah berabad-abad berkuasa? Temukan jawabannya di sini!<br/>&#x1f4ac; Jangan lupa untuk like, share, dan subscribe untuk mendapatkan konten menarik lainnya. Tinggalkan komentar di bawah tentang negara mana yang paling menarik bagi kalian, dan topik apa lagi yang ingin kalian bahas bersama kami.<br/>&#x1f4c5; Sampai jumpa di video berikutnya!</p>",
+                "duration_ms": 560390,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4GXr0jvzRSNAB6qLjQFzq4"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4GXr0jvzRSNAB6qLjQFzq4",
+                "id": "4GXr0jvzRSNAB6qLjQFzq4",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a9060db3b6faccf0e61ee63ed",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f9060db3b6faccf0e61ee63ed",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d9060db3b6faccf0e61ee63ed",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "7 Negara yang Telah Hancur: Dari Kejayaan Menuju Kehancuran",
+                "release_date": "2024-12-31",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4GXr0jvzRSNAB6qLjQFzq4"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7uIKnOivBVxSwnWQZnXHo1/clip_170124_230124.mp3",
+                "description": "Persaingan Pasar memang hadir dalam beberapa bentuk. Namun, bagaimana jika santet dan klenik masuk ke dalam persaingan tersebut?   Saksikan perjalanan tim Kelanara mengungkap santet dalam persaingan pasar.   SANTET SEGORO PITU THE MOCKUMENTARY  Tayang di channel YouTube Kelanara Studio pada tanggal 27 Oktober 2024 di YouTube Kelanara Studio! -------------------------------------------  Kunjungi Media Sosial kami Instagram:   / kelanarastudio    Tiktok:   / kelanara.studio    Twitter: https://x.com/kelanarastudio",
+                "html_description": "<p>Persaingan Pasar memang hadir dalam beberapa bentuk. Namun, bagaimana jika santet dan klenik masuk ke dalam persaingan tersebut? <br/>Saksikan perjalanan tim Kelanara mengungkap santet dalam persaingan pasar. <br/>SANTET SEGORO PITU THE MOCKUMENTARY<br/>Tayang di channel YouTube Kelanara Studio pada tanggal 27 Oktober 2024 di YouTube Kelanara Studio!<br/>-------------------------------------------<br/>Kunjungi Media Sosial kami<br/>Instagram: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbUpMTWE0NUR6ZXRzRDdYSVdvS1lJZkJaT0s1Z3xBQ3Jtc0tuVWItTDRpalJmQVBTWEpyTXVtRHlFOHRWaDBqLVpKbmphWjM3ZG9fb3ZZQWU0ZkI2Y2t1aWtzSnZhcW0wN3NhN0s0eV9FOUlkT3RwbXhDTUxjY1EyZGc5TEFkYW1IR3I2U0c5Ml9VVHRqVC13bWxGWQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkelanarastudio&amp;v&#61;NFWt7wOo0u8\" rel=\"nofollow\">  / kelanarastudio  </a><br/>Tiktok: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbERRaERxVzFTT3dZeDB1RnFYX09lRXAtZ1Q5d3xBQ3Jtc0trZS05T1FrSEtHYUhUbnNhY3FKeG1tRzNRa2ZYN196OVZnY0FlX1dVUHdFSnE0SUs0ZDdqU3hGVVlBVVR1TjhhZkVFSmY2T0ltcHpNckwzNXJSMllPdFgtWmdJQUhnYktVdURCQnFybDE3bjZ4QXhjZw&amp;q&#61;https%3A%2F%2Fwww.tiktok.com%2F%40kelanara.studio&amp;v&#61;NFWt7wOo0u8\" rel=\"nofollow\">  / kelanara.studio  </a><br/>Twitter: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblBzS2JqWWVjNkZkLTV3TThESVZGTkp1VGk3Z3xBQ3Jtc0tuUWJjZGV1ZEdJM2VGUnAxOUtHRkFYNHM2NHcwUHVmNWUwRXRFYXVLcjVua2kySG5oS1NEMFk3bklLelpKOXBpMk1zLXpKYzNGU3V3VHJEdDhLOFVJdVpHekNJMXk0WmFVUTlkVExvd0lxYTM0d3VhNA&amp;q&#61;https%3A%2F%2Fx.com%2Fkelanarastudio&amp;v&#61;NFWt7wOo0u8\" rel=\"nofollow\">https://x.com/kelanarastudio</a></p>",
+                "duration_ms": 1003473,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2X6hATqgT6FiQK2l0nHgR2"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2X6hATqgT6FiQK2l0nHgR2",
+                "id": "2X6hATqgT6FiQK2l0nHgR2",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8abc8c85e2a3a220b5cfbaf065",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fbc8c85e2a3a220b5cfbaf065",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dbc8c85e2a3a220b5cfbaf065",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "MOKUMENTER PERSAINGAN KLENIK DI PASAR : SANTET SEGORO PITU",
+                "release_date": "2024-12-30",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2X6hATqgT6FiQK2l0nHgR2"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/37IwSsjxvz4NUqn2ki2npN/clip_386521_446521.mp3",
+                "description": "Kisah mengenai perewangan sempat mencuat di akun X JeroPoint. Menceritakan mengenai sebuah restoran yang sudah bangkrut akibat pemiliknya memelihara makhluk gaib sebagai penglaris.  Ikuti perjalanan tim Kelanara menelusuri misteri Perewangan. Apakah benar perewangan itu ada?   Lalu apa yang dimaksud perewangan?   Saksikan PEREWANGAN THE MOCKUMENTARY, di channel Kelanara Studio pada tanggal 20 Oktober 2024 di YouTube Kelanara Studio! -------------------------------------------  Kunjungi Media Sosial kami Instagram:   / kelanarastudio    Tiktok:   / kelanara.studio    Twitter: https://x.com/kelanarastudio",
+                "html_description": "<p>Kisah mengenai perewangan sempat mencuat di akun X JeroPoint. Menceritakan mengenai sebuah restoran yang sudah bangkrut akibat pemiliknya memelihara makhluk gaib sebagai penglaris.<br/>Ikuti perjalanan tim Kelanara menelusuri misteri Perewangan. Apakah benar perewangan itu ada? <br/>Lalu apa yang dimaksud perewangan? <br/>Saksikan PEREWANGAN THE MOCKUMENTARY, di channel Kelanara Studio pada tanggal 20 Oktober 2024 di YouTube Kelanara Studio!<br/>-------------------------------------------<br/>Kunjungi Media Sosial kami<br/>Instagram: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbWF4YUthbHVBemplQklaT1psQ1FHSnVhazVrd3xBQ3Jtc0ttTVpvYWx6RG9OSVA4LS1mQ1FXam9MRmhYOFpjd2RNZ1F6OUU4MjBNcm1INThpWU9DWDBndVhNMlhwN2RtT3FMcnQ2cGdtaGpOekREOV9WQUNDcG8yb2hnODlxUXRGRnNzaW1BejVrbEFvRE1EcW8tYw&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkelanarastudio&amp;v&#61;DVbzVoFlUD8\" rel=\"nofollow\">  / kelanarastudio  </a><br/>Tiktok: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblJQR3Z5SnhSRTdyRjVzWGMxcXhCdFRPeUxwZ3xBQ3Jtc0ttclZ2VW5VaDluWkozX2JhVlRwQk1sZ2Rubm9MOTh4NzlianFMMnBYeG5VNXVWVFBfMWc2eVpqQ3QySS1BRkJDWDBpdlZVa3lTWWdDdnlseEF5LW9yUEUtVXJqYm5UeHVDQWNsWFJNb2c5WlpkQWRCOA&amp;q&#61;https%3A%2F%2Fwww.tiktok.com%2F%40kelanara.studio&amp;v&#61;DVbzVoFlUD8\" rel=\"nofollow\">  / kelanara.studio  </a><br/>Twitter: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbHdrd2U2TERLUF8wQ3FkVlBjSUdYSDZRNG5GQXxBQ3Jtc0tuX0gtaWh0RXd5Wm04RjEtdl9xMDJCUFcybTdVdEwyY0kxdlNxM1hscGZwV2RzdTA4VzFISFVjY2JTenhzbFV2b21VdU9oNjljV3QzY19rcWNmdEFsVVFjNE9CcVVYemVDLWU3cmltalNYcUkwcjBZQQ&amp;q&#61;https%3A%2F%2Fx.com%2Fkelanarastudio&amp;v&#61;DVbzVoFlUD8\" rel=\"nofollow\">https://x.com/kelanarastudio</a></p>",
+                "duration_ms": 1964083,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1ZrAlVCdCLdeoVcq9m8ceD"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1ZrAlVCdCLdeoVcq9m8ceD",
+                "id": "1ZrAlVCdCLdeoVcq9m8ceD",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a3fab8d6923ee9bf0fd07dc46",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f3fab8d6923ee9bf0fd07dc46",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d3fab8d6923ee9bf0fd07dc46",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "MOKUMENTER PEREWANGAN - MANUSIA MEMELIHARA SETAN",
+                "release_date": "2024-12-29",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1ZrAlVCdCLdeoVcq9m8ceD"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3BmWl2RPo7whT8XVU5mSAa/clip_0_60000.mp3",
+                "description": "Kali ini kelanara studio akan membawakan 7 urban legend mengerikan yang ada di indonesia!!! apa saja? simak videonya ya",
+                "html_description": "<p>Kali ini kelanara studio akan membawakan 7 urban legend mengerikan yang ada di indonesia!!!<br/>apa saja? simak videonya ya</p>",
+                "duration_ms": 728990,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2ZCOm73RMnrA9DZYEOJAR2"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2ZCOm73RMnrA9DZYEOJAR2",
+                "id": "2ZCOm73RMnrA9DZYEOJAR2",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a35f42809f9777b0159905fde",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f35f42809f9777b0159905fde",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d35f42809f9777b0159905fde",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "T3RR0R NENEK GAYUNG HINGGA SUANGGI!! 7 URBAN LEGEND INDONESIA YANG MENGHANTUI BANYAK ORANG",
+                "release_date": "2024-12-27",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2ZCOm73RMnrA9DZYEOJAR2"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5BETSfRYU1CA9blcmdguEK/clip_563857_623857.mp3",
+                "description": "Ilmu anti B4Cok kebal tilang",
+                "html_description": "<p>Ilmu anti B4Cok kebal tilang</p>",
+                "duration_ms": 1138613,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1JryqC9a85BCp85r3IQope"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1JryqC9a85BCp85r3IQope",
+                "id": "1JryqC9a85BCp85r3IQope",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a2395647e7871c271f35a7827",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f2395647e7871c271f35a7827",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d2395647e7871c271f35a7827",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "AJIAN RAWA RONTEK - TAK BISA M4TI SELAMA MASIH MENYENTUH TANAH",
+                "release_date": "2024-12-26",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1JryqC9a85BCp85r3IQope"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2cyaBZhJRc0caUCACIHCh2/clip_240974_300974.mp3",
+                "description": "Kali ini kita akan membahas 7 penjara paling mengerikan yang ada di dunia part 1.  Jangan lupa subscribe kelanara studio untuk update video selanjutnya ya!!!   #penjarabrutal #sisigelapdunia#penjara",
+                "html_description": "<p>Kali ini kita akan membahas 7 penjara paling mengerikan yang ada di dunia part 1.<br/>Jangan lupa subscribe kelanara studio untuk update video selanjutnya ya!!!<br/><a href=\"https://www.youtube.com/hashtag/penjarabrutal\" rel=\"nofollow\">#penjarabrutal</a> <a href=\"https://www.youtube.com/hashtag/sisigelapdunia\" rel=\"nofollow\">#sisigelapdunia</a><a href=\"https://www.youtube.com/hashtag/penjara\" rel=\"nofollow\">#penjara</a></p>",
+                "duration_ms": 793193,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5uUxEIUbMxa1gtQyrecDCM"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5uUxEIUbMxa1gtQyrecDCM",
+                "id": "5uUxEIUbMxa1gtQyrecDCM",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a4be83377d0c0d5540aa8e00f",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f4be83377d0c0d5540aa8e00f",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d4be83377d0c0d5540aa8e00f",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Setiap hari ada Napi M4TI!!! 7 PENJARA PALING BRUT4L DI DUNIA part 1",
+                "release_date": "2024-12-25",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5uUxEIUbMxa1gtQyrecDCM"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2VD1J7oRZBvoWZpV9YiTr1/clip_405149_465149.mp3",
+                "description": "Misteri kampung gajah yang katanya memakai perjanjian dengan jin.  \"Disclaimer: Video ini disajikan semata-mata untuk tujuan hiburan. Konten yang ditampilkan mungkin tidak cocok untuk semua penonton. Jika ada kesamaan dengan pengalaman atau cerita lain, itu tidak disengaja. Mohon tonton dengan bijak dan ingat untuk tidak mengambilnya terlalu serius.\"  #penelusuran #kampunggajah #misteri",
+                "html_description": "<p>Misteri kampung gajah yang katanya memakai perjanjian dengan jin.<br/>&#34;Disclaimer: Video ini disajikan semata-mata untuk tujuan hiburan. Konten yang ditampilkan mungkin tidak cocok untuk semua penonton. Jika ada kesamaan dengan pengalaman atau cerita lain, itu tidak disengaja. Mohon tonton dengan bijak dan ingat untuk tidak mengambilnya terlalu serius.&#34;<br/><a href=\"https://www.youtube.com/hashtag/penelusuran\" rel=\"nofollow\">#penelusuran</a> <a href=\"https://www.youtube.com/hashtag/kampunggajah\" rel=\"nofollow\">#kampunggajah</a> <a href=\"https://www.youtube.com/hashtag/misteri\" rel=\"nofollow\">#misteri</a></p>",
+                "duration_ms": 4335351,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5BHamTY7hFLGvtUiaLwCIH"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5BHamTY7hFLGvtUiaLwCIH",
+                "id": "5BHamTY7hFLGvtUiaLwCIH",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a99b1b904d3d3abd5faae5898",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f99b1b904d3d3abd5faae5898",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d99b1b904d3d3abd5faae5898",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "KAMPUNG GAJAH - Menelusuri Misteri Waterpark terbesar yang DITINGGALKAN!",
+                "release_date": "2024-12-24",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5BHamTY7hFLGvtUiaLwCIH"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7thCUqM0uJDfpG5cQiszXn/clip_302709_362709.mp3",
+                "description": "Kali ini bersama dengan Betz yang akan membawakan segmen baru di channel Kelanara.  Kita akan membahas 7 mitos, tempat, atau misteri dunia yang belum terjawab dalam segmen SISI GELAP DUNIA. Kita akan mengulas berbagai hal hingga misteri yang pasti menarik untuk dibahas.   #7keajaibandunia #sisigelap #misteri",
+                "html_description": "<p>Kali ini bersama dengan Betz yang akan membawakan segmen baru di channel Kelanara. <br/>Kita akan membahas 7 mitos, tempat, atau misteri dunia yang belum terjawab dalam segmen SISI GELAP DUNIA.<br/>Kita akan mengulas berbagai hal hingga misteri yang pasti menarik untuk dibahas. <br/><a href=\"https://www.youtube.com/hashtag/7keajaibandunia\" rel=\"nofollow\">#7keajaibandunia</a> <a href=\"https://www.youtube.com/hashtag/sisigelap\" rel=\"nofollow\">#sisigelap</a> <a href=\"https://www.youtube.com/hashtag/misteri\" rel=\"nofollow\">#misteri</a></p>",
+                "duration_ms": 541466,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1YLTWlAkklniou1O8QCMkE"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1YLTWlAkklniou1O8QCMkE",
+                "id": "1YLTWlAkklniou1O8QCMkE",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ad187895eabd593c07be84c26",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fd187895eabd593c07be84c26",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dd187895eabd593c07be84c26",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "7 Destinasi Wisata TERSERAM di Indonesia",
+                "release_date": "2024-12-24",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1YLTWlAkklniou1O8QCMkE"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6in0gCEifPnvlrfP09PBqA/clip_615605_675605.mp3",
+                "description": "Di Mokumenter ini, kita akan mengajak Teman Kelana untuk menguak misteri Desa Sumala. Dalam penelusuran ini, kita akan menyusuri desa tersebut, mencoba mengungkap penyebab munculnya sosok Sumala, dan mendalami cerita-cerita mistis yang berkembang di masyarakat sekitar. Kisah dari Kabupaten Semarang ini masih menghantui masyarakat sekitar, membuat larangan keluar setelah maghrib menjadi lebih mengerikan.   Konon, Masyarakat sekitar masih meyakini sosok Sumala masih ada. Benarkah demikian...?  Saksikan Mokumenter MENCARI SUMALA pada 19 September 2024 di YouTube Kelanara Studio! -------------------------------------------  Kunjungi Media Sosial kami Instagram:   / kelanarastudio    Tiktok:   / kelanara.studio    Twitter: https://x.com/kelanarastudio",
+                "html_description": "<p>Di Mokumenter ini, kita akan mengajak Teman Kelana untuk menguak misteri Desa Sumala. Dalam penelusuran ini, kita akan menyusuri desa tersebut, mencoba mengungkap penyebab munculnya sosok Sumala, dan mendalami cerita-cerita mistis yang berkembang di masyarakat sekitar. Kisah dari Kabupaten Semarang ini masih menghantui masyarakat sekitar, membuat larangan keluar setelah maghrib menjadi lebih mengerikan. <br/>Konon, Masyarakat sekitar masih meyakini sosok Sumala masih ada. Benarkah demikian...?<br/>Saksikan Mokumenter MENCARI SUMALA pada 19 September 2024 di YouTube Kelanara Studio!<br/>-------------------------------------------<br/>Kunjungi Media Sosial kami<br/>Instagram: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbkQyVmtWQUMxTlllcDVBaTI1eFJaa0NqZzF0QXxBQ3Jtc0ttMkV4MmFOQjYzLUpBTW9yYXRoOS14UUIySVRGbTZxOXFXeVVZS2FrZEZ3S3lNbV9LWWxFaEhfeW9oMzIwRmN0cU5HdnItZUJnYWZ4bnY2VXBmQ3E0dk5MRVpqQVQ1eVdEVWo2QmJVSkVpc2ZGMXNzYw&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkelanarastudio&amp;v&#61;edLAi-Tf-OQ\" rel=\"nofollow\">  / kelanarastudio  </a><br/>Tiktok: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbWxJeGx3ZjY3YURfUmQxMG9mR3A0cXJVTnBjZ3xBQ3Jtc0tsQTQ5Qlp0aEdTcVE1R3R1b3JmQl9fMUJtYjNXcGRQQkNuQ0JsMzB4TXB0ZlRUOTlxcHE3eVZkUnJiN0FrRGhFWEdkenk3WVBGTzQxa2I0WW9TcDJtblVyQ3JaYWVFOFAxX0wtSnVxbWVncG1PdkVjNA&amp;q&#61;https%3A%2F%2Fwww.tiktok.com%2F%40kelanara.studio&amp;v&#61;edLAi-Tf-OQ\" rel=\"nofollow\">  / kelanara.studio  </a><br/>Twitter: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbUlLRncxWG9HZk5iMWZXbmx6SzE0NUZINmpKQXxBQ3Jtc0tsa2dLd1J1SmE2WkdTYnlqLUFaS0JXdldEUU5ybGQtVHk4b2duZ09UTF9La1dFSjJNbnROMEc1WU9rclNONTBlcUhVcnYzZ1ZsLTN2T3owdWROU3BZMUtGdDQtVDlKQ3VtOXRNR3ZWUXdUTS1BLXpmSQ&amp;q&#61;https%3A%2F%2Fx.com%2Fkelanarastudio&amp;v&#61;edLAi-Tf-OQ\" rel=\"nofollow\">https://x.com/kelanarastudio</a></p>",
+                "duration_ms": 3150669,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5b0zbY3QWrHzr41EpooaU3"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5b0zbY3QWrHzr41EpooaU3",
+                "id": "5b0zbY3QWrHzr41EpooaU3",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8afa787dd895892794524f152d",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1ffa787dd895892794524f152d",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dfa787dd895892794524f152d",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "MOKUMENTER MENCARI SUMALA - KISAH NYATA DARI KABUPATEN SEMARANG",
+                "release_date": "2024-12-23",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5b0zbY3QWrHzr41EpooaU3"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/41205oMEQlPisPPoYxU04J/clip_455747_515747.mp3",
+                "description": "Sebuah desa di Kabupaten Semarang dihantui oleh sosok Anak Setan yang lahir dari rahim manusia. Mereka menyebutnya dengan nama \"SUMALA\"  Konon, Masyarakat sekitar meyakini sosok Sumala masih ada. Benarkah demikian ? ...   #Sumala#FilmSumala#AnakSetan",
+                "html_description": "<p>Sebuah desa di Kabupaten Semarang dihantui oleh sosok Anak Setan yang lahir dari rahim manusia. Mereka menyebutnya dengan nama &#34;SUMALA&#34;<br/>Konon, Masyarakat sekitar meyakini sosok Sumala masih ada. Benarkah demikian ? ...<br/><a href=\"https://www.youtube.com/hashtag/sumala\" rel=\"nofollow\">#Sumala</a><a href=\"https://www.youtube.com/hashtag/filmsumala\" rel=\"nofollow\">#FilmSumala</a><a href=\"https://www.youtube.com/hashtag/anaksetan\" rel=\"nofollow\">#AnakSetan</a></p>",
+                "duration_ms": 3128052,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7KeXAXPdttwxcJJ4cIIdXF"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7KeXAXPdttwxcJJ4cIIdXF",
+                "id": "7KeXAXPdttwxcJJ4cIIdXF",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aa0af48e29444f81927f99183",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fa0af48e29444f81927f99183",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68da0af48e29444f81927f99183",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "KASUS ANAK HILANG di Kab. Semarang - SUMALA",
+                "release_date": "2024-12-20",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7KeXAXPdttwxcJJ4cIIdXF"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Nqa7AjRhYCE7ANgP59K11/clip_4222_64222.mp3",
+                "description": "Di video ini, kita akan mengajak Teman Kelana untuk menguak misteri Desa Sumala. Dalam penelusuran ini, kita akan menyusuri desa tersebut, mencoba mengungkap penyebab munculnya sosok Sumala, dan mendalami cerita-cerita mistis yang berkembang di masyarakat sekitar. Kisah dari Kabupaten Semarang ini masih menghantui masyarakat sekitar, membuat larangan keluar setelah maghrib menjadi lebih mengerikan.   Konon, Masyarakat sekitar masih meyakini sosok Sumala masih ada. Benarkah demikian...?  Saksikan Mokumenter MENCARI SUMALA pada 19 September 2024 di YouTube Kelanara Studio! -------------------------------------------  Kunjungi Media Sosial kami Instagram: https://www.instagram.com/kelanarastu...  Tiktok: https://www.tiktok.com/@kelanara.stud...  Twitter: https://x.com/KelanaraStudio?t=3nq6w7...",
+                "html_description": "<p>Di video ini, kita akan mengajak Teman Kelana untuk menguak misteri Desa Sumala. Dalam penelusuran ini, kita akan menyusuri desa tersebut, mencoba mengungkap penyebab munculnya sosok Sumala, dan mendalami cerita-cerita mistis yang berkembang di masyarakat sekitar. Kisah dari Kabupaten Semarang ini masih menghantui masyarakat sekitar, membuat larangan keluar setelah maghrib menjadi lebih mengerikan. <br/>Konon, Masyarakat sekitar masih meyakini sosok Sumala masih ada. Benarkah demikian...?<br/>Saksikan Mokumenter MENCARI SUMALA pada 19 September 2024 di YouTube Kelanara Studio!<br/>-------------------------------------------<br/>Kunjungi Media Sosial kami<br/>Instagram: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbmY5OHNPNWVYV0pqdTY5V3J6RS1GZzFoR3J2Z3xBQ3Jtc0tuMk9PV1JfMml5N210djFOdHU2U2g5dXZDTmd6T3A0YlFmdkV1UER1TjJBLThzcnJGRjZYa3MtUk5jUl9vMURZQXZrZzNFQWExTFdLa3N3Ul9IUmE0T3dfbmI1U3RER05NMl9NMUx1WUJoNzVrZHh4bw&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkelanarastudio%3Figsh%3DMWhic3p1aW05Zjhpbg%3D%3D&amp;v&#61;sPOpG6bLfCo\" rel=\"nofollow\">https://www.instagram.com/kelanarastu...</a><br/>Tiktok: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbUJua2dsSmkwWUJsZmJOazhCTU81eGpZcU4yUXxBQ3Jtc0trM1cxbERQdmlYNWhWX3pBdlA5YzFfQnd6eWpRbTVqdHNuSzRhLXY0MnNtOGZmR0xPTUZSY1p1dGU3U2NwTkpId1V1ZFBibThXZjNaMnZwblZ0YVJXUGhhdDl5amltVVBWX29oUGdrT2xHdms0aHFoYw&amp;q&#61;https%3A%2F%2Fwww.tiktok.com%2F%40kelanara.studio%3F_t%3D8pnPnPemZOM%26_r%3D1&amp;v&#61;sPOpG6bLfCo\" rel=\"nofollow\">https://www.tiktok.com/&#64;kelanara.stud...</a><br/>Twitter: <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblgtRXkzVnB3RlVjNVdpM0VULXlkMElUaFA2UXxBQ3Jtc0trNTRkUHk1aDY3T1ZidGItUGVveU1rc0N5UmZTOGFmMEZsVHlaMGctQ3k4NUgzMnZFU21xQ3lTSHhxQ05JMmhRVnh1aUk3Q0tQY3FBQWhwUjFYc05PLUhyVGs1RFdjM3BWNEdLYzVlRUNWUTduOG9nSQ&amp;q&#61;https%3A%2F%2Fx.com%2FKelanaraStudio%3Ft%3D3nq6w7FZXsX-OKG7hfqhgw%26s%3D09&amp;v&#61;sPOpG6bLfCo\" rel=\"nofollow\">https://x.com/KelanaraStudio?t&#61;3nq6w7...</a></p>",
+                "duration_ms": 105697,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4e3dqPPS3ZEDPPJOItuS69"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4e3dqPPS3ZEDPPJOItuS69",
+                "id": "4e3dqPPS3ZEDPPJOItuS69",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a6aad3d41c0dc92f00b2d04d4",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f6aad3d41c0dc92f00b2d04d4",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d6aad3d41c0dc92f00b2d04d4",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "KISAH NYATA DARI KAB SEMARANG : MENCARI SUMALA - TRAILER",
+                "release_date": "2024-12-19",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4e3dqPPS3ZEDPPJOItuS69"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7Lnzflb7UqjzX1WB8ZttTe/clip_395922_455922.mp3",
+                "description": "Cerita Racun Sangga naik berkat kisah pilu Andi dan Maya di akun X @GustiGina.  Namun, apa itu Racun Sangga?  Demi mencari penjelasan lengkapnya, tim Kelanara pun menelusuri Desa-desa di Kalimantan untuk mencari sumber informasi pertama tentang sihir Racun Sangga ini.   Simak apa saja yang kami dapatkan di DOCUMENTARY - MENCARI RACUN SANGGA.",
+                "html_description": "<p>Cerita Racun Sangga naik berkat kisah pilu Andi dan Maya di akun X &#64;GustiGina.<br/>Namun, apa itu Racun Sangga?<br/>Demi mencari penjelasan lengkapnya, tim Kelanara pun menelusuri Desa-desa di Kalimantan untuk mencari sumber informasi pertama tentang sihir Racun Sangga ini. <br/>Simak apa saja yang kami dapatkan di DOCUMENTARY - MENCARI RACUN SANGGA.</p>",
+                "duration_ms": 1614483,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4sbAnSzQbRshzkDkXuc4Cp"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4sbAnSzQbRshzkDkXuc4Cp",
+                "id": "4sbAnSzQbRshzkDkXuc4Cp",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a9c0ee40e47b2fa1dd6fca099",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f9c0ee40e47b2fa1dd6fca099",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d9c0ee40e47b2fa1dd6fca099",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "MENCARI RACUN SANGGA - SANTET RACUN GAIB DARI KALIMANTAN",
+                "release_date": "2024-12-19",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4sbAnSzQbRshzkDkXuc4Cp"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3WzH9ioniXlxjmLr5YYyvx/clip_128934_188934.mp3",
+                "description": "Kerap terdengar sebagai hal yang sudah biasa dilakukan orang-orang untuk membantu dirinya menjadi lebih terpesona, lebih sukses dalam berbisnis melalui hal yang mistis, ini biasa disebut sebagai sasuk. Susuk sendiri memiliki beberapa jenis dan bisa di pasangkan di beberapa bagian tubuh manusia.   Tonton video ini sampai habis untuk mengungkapkan asal muasal dan penjelasan mengenai susuk. Jangan lupa untuk subscribe dan nyalakan notifikasi agar tidak ketinggalan cerita-cerita horor nyata lainnya!",
+                "html_description": "<p>Kerap terdengar sebagai hal yang sudah biasa dilakukan orang-orang untuk membantu dirinya menjadi lebih terpesona, lebih sukses dalam berbisnis melalui hal yang mistis, ini biasa disebut sebagai sasuk. Susuk sendiri memiliki beberapa jenis dan bisa di pasangkan di beberapa bagian tubuh manusia. <br/>Tonton video ini sampai habis untuk mengungkapkan asal muasal dan penjelasan mengenai susuk. Jangan lupa untuk subscribe dan nyalakan notifikasi agar tidak ketinggalan cerita-cerita horor nyata lainnya!</p>",
+                "duration_ms": 620855,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0GFjs9jp3djYaERFpe9L8w"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0GFjs9jp3djYaERFpe9L8w",
+                "id": "0GFjs9jp3djYaERFpe9L8w",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a9a75c513dd5c4001ece0505b",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f9a75c513dd5c4001ece0505b",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d9a75c513dd5c4001ece0505b",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "MENGUNGKAP MISTERI SUSUK! -MEDIS ATAU MISTIS?",
+                "release_date": "2024-12-18",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0GFjs9jp3djYaERFpe9L8w"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5sNB1uSoCx9ySgpX4Kpe22/clip_636144_696144.mp3",
+                "description": "Kisah Racun Sangga yang dialami sepasang suami istri sempat mencuat di akun X GustiGina. Membahas sihir tanah Kalimantan yang dikirim untuk memisahkan rumah tangga seseorang.   Ternyata, konflik serupa tidak hanya terjadi di Andi dan Maya saja. Simak perjalanan tim Kelanara mengungkap santet Racun Sangga di rumah Adam dan Dini!   Hanya di RACUN SANGGA: THE MOCKUMENTARY.",
+                "html_description": "<p>Kisah Racun Sangga yang dialami sepasang suami istri sempat mencuat di akun X GustiGina. Membahas sihir tanah Kalimantan yang dikirim untuk memisahkan rumah tangga seseorang. <br/>Ternyata, konflik serupa tidak hanya terjadi di Andi dan Maya saja. Simak perjalanan tim Kelanara mengungkap santet Racun Sangga di rumah Adam dan Dini! <br/>Hanya di RACUN SANGGA: THE MOCKUMENTARY.</p>",
+                "duration_ms": 1362245,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/78Jq12GgH62WShc6BmJxGh"
+                },
+                "href": "https://api.spotify.com/v1/episodes/78Jq12GgH62WShc6BmJxGh",
+                "id": "78Jq12GgH62WShc6BmJxGh",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8af7158f24ab7acfa16bf55558",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1ff7158f24ab7acfa16bf55558",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68df7158f24ab7acfa16bf55558",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "SANTET DARI KALIMANTAN - MOKUMENTER RACUN SANGGA",
+                "release_date": "2024-12-18",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:78Jq12GgH62WShc6BmJxGh"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2mCXnhibXl1l2lJo93PVTr/clip_216686_276686.mp3",
+                "description": "Dari balik cerita-cerita menyeramkan di Kabupaten Semarang, Jawa Tengah, terungkap kisah Sumala yang telah menghilangkan banyak anak-anak dari tahun 1960 hingga 1970-an. Kisah ini diangkat dari thread viral di X oleh @BangBetz_, dan berdasarkan pengalaman nyata yang dialami oleh Abdi pada tahun 1976. Abdi adalah saksi hidup yang melihat sosok menyeramkan Sumala yang diduga sebagai pelaku hilangnya anak-anak di desa tersebut.  Sumala, yang dipercaya sebagai anak iblis hasil ritual hitam, adalah sosok mengerikan yang muncul di malam hari, meneror desa dengan kekuatan supranaturalnya. Siapa sebenarnya Sumala? Bagaimana sejarah kelam dari keluarga Sulastri yang memicu semua ini? Dan kenapa anak-anak desa tersebut dilarang keluar setelah Maghrib?  Tonton video ini sampai habis untuk mengungkap semua misteri dan teror yang menyelimuti desa angker ini. Jangan lupa untuk subscribe dan nyalakan notifikasi agar tidak ketinggalan cerita-cerita horor nyata lainnya!  #MisteriSumala #KisahNyata #CeritaHoror # HororIndonesia #MisteriDesa #KisahMisterius #Sumala #KisahViral #LegendaUrban #ThreadViral #CeritaMistis #Misteri1948 #CeritaSeram #HororJawaTengah #BangBetz",
+                "html_description": "<p>Dari balik cerita-cerita menyeramkan di Kabupaten Semarang, Jawa Tengah, terungkap kisah Sumala yang telah menghilangkan banyak anak-anak dari tahun 1960 hingga 1970-an. Kisah ini diangkat dari thread viral di X oleh &#64;BangBetz_, dan berdasarkan pengalaman nyata yang dialami oleh Abdi pada tahun 1976. Abdi adalah saksi hidup yang melihat sosok menyeramkan Sumala yang diduga sebagai pelaku hilangnya anak-anak di desa tersebut.<br/>Sumala, yang dipercaya sebagai anak iblis hasil ritual hitam, adalah sosok mengerikan yang muncul di malam hari, meneror desa dengan kekuatan supranaturalnya. Siapa sebenarnya Sumala? Bagaimana sejarah kelam dari keluarga Sulastri yang memicu semua ini? Dan kenapa anak-anak desa tersebut dilarang keluar setelah Maghrib?<br/>Tonton video ini sampai habis untuk mengungkap semua misteri dan teror yang menyelimuti desa angker ini. Jangan lupa untuk subscribe dan nyalakan notifikasi agar tidak ketinggalan cerita-cerita horor nyata lainnya!<br/><a href=\"https://www.youtube.com/hashtag/misterisumala\" rel=\"nofollow\">#MisteriSumala</a><a href=\"https://www.youtube.com/hashtag/kisahnyata\" rel=\"nofollow\"> #KisahNyata</a><a href=\"https://www.youtube.com/hashtag/ceritahoror\" rel=\"nofollow\"> #CeritaHoror</a><a href=\"https://www.youtube.com/hashtag/hororindonesia\" rel=\"nofollow\"> # HororIndonesia</a><a href=\"https://www.youtube.com/hashtag/misteridesa\" rel=\"nofollow\"> #MisteriDesa</a><a href=\"https://www.youtube.com/hashtag/kisahmisterius\" rel=\"nofollow\"> #KisahMisterius</a><a href=\"https://www.youtube.com/hashtag/sumala\" rel=\"nofollow\"> #Sumala</a><a href=\"https://www.youtube.com/hashtag/kisahviral\" rel=\"nofollow\"> #KisahViral</a><a href=\"https://www.youtube.com/hashtag/legendaurban\" rel=\"nofollow\"> #LegendaUrban</a><a href=\"https://www.youtube.com/hashtag/threadviral\" rel=\"nofollow\"> #ThreadViral</a><a href=\"https://www.youtube.com/hashtag/ceritamistis\" rel=\"nofollow\"> #CeritaMistis</a><a href=\"https://www.youtube.com/hashtag/misteri1948\" rel=\"nofollow\"> #Misteri1948</a><a href=\"https://www.youtube.com/hashtag/ceritaseram\" rel=\"nofollow\"> #CeritaSeram</a><a href=\"https://www.youtube.com/hashtag/hororjawatengah\" rel=\"nofollow\"> #HororJawaTengah</a><a href=\"https://www.youtube.com/hashtag/bangbetz\" rel=\"nofollow\"> #BangBetz</a></p>",
+                "duration_ms": 1094635,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5Bh0gZte1OBJMOTqNC2MP1"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5Bh0gZte1OBJMOTqNC2MP1",
+                "id": "5Bh0gZte1OBJMOTqNC2MP1",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a4a8c459f0155ebcfc397ca47",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f4a8c459f0155ebcfc397ca47",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d4a8c459f0155ebcfc397ca47",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Misteri Sumala: Rahasia mistis desa di Semarang!",
+                "release_date": "2024-12-17",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5Bh0gZte1OBJMOTqNC2MP1"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6NKixxwA2ptTDY4bL3pMPd/clip_241066_301066.mp3",
+                "description": "Selamat datang di Kelanara Studio! Di video kali ini, kami akan mengajakmu untuk mengenal 7 jalur paling mematikan di Indonesia yang penuh dengan kisah kelam dan bahaya. Dari tanjakan ekstrem hingga jalan berkelok yang mengerikan, setiap jalur ini menyimpan cerita yang membuat siapa pun merinding!  Dari Tanjakan Sitinjau Laut yang curam di Padang hingga Kelok 44 yang menantang maut di Sumatera Barat, kita akan membahas risiko yang ada di setiap jalur, serta mitos-mitos misterius yang melingkupinya. Pastikan kamu tetap fokus dan hati-hati saat melalui jalur-jalur ini!  Jangan lupa untuk like, share, dan subscribe agar tidak ketinggalan video menarik lainnya dari kami! Komentar juga di bawah, kalau kamu tahu jalur berbahaya lainnya yang layak disebutkan! 👇  #JalurMematikan #Indonesia #KelanaraStudio #MisteriJalan #Travel #KeamananJalan #JalurBerbahaya",
+                "html_description": "<p>Selamat datang di Kelanara Studio! Di video kali ini, kami akan mengajakmu untuk mengenal 7 jalur paling mematikan di Indonesia yang penuh dengan kisah kelam dan bahaya. Dari tanjakan ekstrem hingga jalan berkelok yang mengerikan, setiap jalur ini menyimpan cerita yang membuat siapa pun merinding!<br/>Dari Tanjakan Sitinjau Laut yang curam di Padang hingga Kelok 44 yang menantang maut di Sumatera Barat, kita akan membahas risiko yang ada di setiap jalur, serta mitos-mitos misterius yang melingkupinya. Pastikan kamu tetap fokus dan hati-hati saat melalui jalur-jalur ini!<br/>Jangan lupa untuk like, share, dan subscribe agar tidak ketinggalan video menarik lainnya dari kami! Komentar juga di bawah, kalau kamu tahu jalur berbahaya lainnya yang layak disebutkan! &#x1f447;<br/><a href=\"https://www.youtube.com/hashtag/jalurmematikan\" rel=\"nofollow\">#JalurMematikan</a> <a href=\"https://www.youtube.com/hashtag/indonesia\" rel=\"nofollow\">#Indonesia</a> <a href=\"https://www.youtube.com/hashtag/kelanarastudio\" rel=\"nofollow\">#KelanaraStudio</a> <a href=\"https://www.youtube.com/hashtag/misterijalan\" rel=\"nofollow\">#MisteriJalan</a> <a href=\"https://www.youtube.com/hashtag/travel\" rel=\"nofollow\">#Travel</a> <a href=\"https://www.youtube.com/hashtag/keamananjalan\" rel=\"nofollow\">#KeamananJalan</a> <a href=\"https://www.youtube.com/hashtag/jalurberbahaya\" rel=\"nofollow\">#JalurBerbahaya</a><br /></p>",
+                "duration_ms": 524678,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1uNI4l8EkqXN8Z0SMvMpKT"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1uNI4l8EkqXN8Z0SMvMpKT",
+                "id": "1uNI4l8EkqXN8Z0SMvMpKT",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a689eeea30d5f88f6aadbda2b",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f689eeea30d5f88f6aadbda2b",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d689eeea30d5f88f6aadbda2b",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "7 Jalur Paling Mematikan di Indonesia yang Bikin Merinding! 🚧💀",
+                "release_date": "2024-12-17",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1uNI4l8EkqXN8Z0SMvMpKT"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7kvVD5NvCDU0MPHwfWbXls/clip_504033_564033.mp3",
+                "description": "\"Pasar Raya Salatiga, yang biasanya ramai dengan aktivitas perdagangan, kini menyimpan kisah mistis yang membuat bulu kuduk merinding. Dalam video kali ini, Kelanara Studio mengungkap fenomena mengerikan di balik kesuksesan sebagian pedagang. Mulai dari ritual pesugihan dengan menabur bunga, serangan santet yang tak terlihat, hingga penggunaan tuyul sebagai penghisap rejeki sesama pedagang. Kejadian-kejadian ini telah menciptakan suasana mencekam dan penuh misteri di pasar yang terkenal di Salatiga ini.  Melalui penelusuran yang mendalam, Kelanara Studio mencoba menguak kebenaran di balik rumor yang berkembang. Apakah benar ada kekuatan mistis yang mempengaruhi perputaran ekonomi di pasar ini? Bagaimana reaksi para pedagang lain yang merasa diteror? Saksikan video ini untuk mengetahui fakta-fakta mengerikan yang belum pernah terungkap sebelumnya!",
+                "html_description": "<p>&#34;Pasar Raya Salatiga, yang biasanya ramai dengan aktivitas perdagangan, kini menyimpan kisah mistis yang membuat bulu kuduk merinding. Dalam video kali ini, Kelanara Studio mengungkap fenomena mengerikan di balik kesuksesan sebagian pedagang. Mulai dari ritual pesugihan dengan menabur bunga, serangan santet yang tak terlihat, hingga penggunaan tuyul sebagai penghisap rejeki sesama pedagang. Kejadian-kejadian ini telah menciptakan suasana mencekam dan penuh misteri di pasar yang terkenal di Salatiga ini.<br/>Melalui penelusuran yang mendalam, Kelanara Studio mencoba menguak kebenaran di balik rumor yang berkembang. Apakah benar ada kekuatan mistis yang mempengaruhi perputaran ekonomi di pasar ini? Bagaimana reaksi para pedagang lain yang merasa diteror? Saksikan video ini untuk mengetahui fakta-fakta mengerikan yang belum pernah terungkap sebelumnya!</p>",
+                "duration_ms": 1070184,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4ihsWWfmsPtS8tEDjwTUL2"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4ihsWWfmsPtS8tEDjwTUL2",
+                "id": "4ihsWWfmsPtS8tEDjwTUL2",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab7f87fdddd0162727389ef7f",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb7f87fdddd0162727389ef7f",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68db7f87fdddd0162727389ef7f",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "TEROR PASAR SALATIGA: P3SUGIHAN, S4NTET, DAN TUYUL PENGHISAP REZEKI!",
+                "release_date": "2024-12-16",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4ihsWWfmsPtS8tEDjwTUL2"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1aJmG5PeUrnJowVC8n7Udu/clip_135844_195844.mp3",
+                "description": "Halo semuanya! Selamat datang di channel kami.  Di video kali ini, kita akan membahas kasus kontroversial Ronald Tannur yang baru saja divonis bebas oleh pengadilan. Kenapa Ronald bisa dibebaskan? Apa pertimbangan hakim dalam memutuskan vonis ini?  Kami akan mengupas tuntas jalannya persidangan, bukti-bukti yang disajikan, serta argumen dari kedua belah pihak. Tidak ketinggalan, kita juga akan membahas reaksi dari masyarakat dan keluarga korban terhadap keputusan ini.  Jangan lupa like, comment, dan subscribe untuk mendapatkan update terbaru dari channel kami. Bagikan video ini jika kalian merasa informasi ini penting untuk diketahui oleh banyak orang.  Terima kasih sudah menonton!  #KasusRonaldTannur #VonisBebas #Pengadilan #BeritaTerkini #AnalisisKasus #Keadilan",
+                "html_description": "<p>Halo semuanya! Selamat datang di channel kami.<br/>Di video kali ini, kita akan membahas kasus kontroversial Ronald Tannur yang baru saja divonis bebas oleh pengadilan. Kenapa Ronald bisa dibebaskan? Apa pertimbangan hakim dalam memutuskan vonis ini?<br/>Kami akan mengupas tuntas jalannya persidangan, bukti-bukti yang disajikan, serta argumen dari kedua belah pihak. Tidak ketinggalan, kita juga akan membahas reaksi dari masyarakat dan keluarga korban terhadap keputusan ini.<br/>Jangan lupa like, comment, dan subscribe untuk mendapatkan update terbaru dari channel kami. Bagikan video ini jika kalian merasa informasi ini penting untuk diketahui oleh banyak orang.<br/>Terima kasih sudah menonton!<br/><a href=\"https://www.youtube.com/hashtag/kasusronaldtannur\" rel=\"nofollow\">#KasusRonaldTannur</a> <a href=\"https://www.youtube.com/hashtag/vonisbebas\" rel=\"nofollow\">#VonisBebas</a> <a href=\"https://www.youtube.com/hashtag/pengadilan\" rel=\"nofollow\">#Pengadilan</a> <a href=\"https://www.youtube.com/hashtag/beritaterkini\" rel=\"nofollow\">#BeritaTerkini</a> <a href=\"https://www.youtube.com/hashtag/analisiskasus\" rel=\"nofollow\">#AnalisisKasus</a> <a href=\"https://www.youtube.com/hashtag/keadilan\" rel=\"nofollow\">#Keadilan</a></p>",
+                "duration_ms": 615026,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/55p0skXrMIzyXye8fsGOL8"
+                },
+                "href": "https://api.spotify.com/v1/episodes/55p0skXrMIzyXye8fsGOL8",
+                "id": "55p0skXrMIzyXye8fsGOL8",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a399b3fa250540723fe55663f",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f399b3fa250540723fe55663f",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d399b3fa250540723fe55663f",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Kasus Ronald Tannur: Vonis Bebas di Pengadilan, Mengapa?",
+                "release_date": "2024-12-13",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:55p0skXrMIzyXye8fsGOL8"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5zd6ToDod4VUPJXSDl97c8/clip_138536_198536.mp3",
+                "description": "Dulu, ada kutukan mengerikan yang menimpa para perempuan pembatik di Bahulaweyan. Sejak saat itu, hidup mereka berubah drastis. Banyak kejadian aneh dan mistis yang terus menghantui mereka setiap malam.  Dalam video ini, kita akan mengungkap bagaimana kutukan ini mempengaruhi hidup mereka sehari-hari. Mulai dari penampakan yang misterius hingga suara-suara aneh di malam hari, semua kisah ini akan membuat kamu merinding.  Penasaran dengan kisah lengkapnya? Tonton video ini sampai habis dan rasakan sendiri ketegangannya. Jangan lupa untuk like, komen, dan subscribe supaya kamu nggak ketinggalan cerita-cerita seram lainnya dari kami. Selamat menonton, dan ingat, pastikan kamu nonton bareng teman biar nggak terlalu takut!\"  #KutukanPerempuan #CeritaSeram #MisteriBahulaweyan #HororIndonesia #LegendaMengerikan #KisahMistis #CeritaHantu #BatikHoror",
+                "html_description": "<p>Dulu, ada kutukan mengerikan yang menimpa para perempuan pembatik di Bahulaweyan. Sejak saat itu, hidup mereka berubah drastis. Banyak kejadian aneh dan mistis yang terus menghantui mereka setiap malam.<br/>Dalam video ini, kita akan mengungkap bagaimana kutukan ini mempengaruhi hidup mereka sehari-hari. Mulai dari penampakan yang misterius hingga suara-suara aneh di malam hari, semua kisah ini akan membuat kamu merinding.<br/>Penasaran dengan kisah lengkapnya? Tonton video ini sampai habis dan rasakan sendiri ketegangannya. Jangan lupa untuk like, komen, dan subscribe supaya kamu nggak ketinggalan cerita-cerita seram lainnya dari kami. Selamat menonton, dan ingat, pastikan kamu nonton bareng teman biar nggak terlalu takut!&#34;<br/><a href=\"https://www.youtube.com/hashtag/kutukanperempuan\" rel=\"nofollow\">#KutukanPerempuan</a> <a href=\"https://www.youtube.com/hashtag/ceritaseram\" rel=\"nofollow\">#CeritaSeram</a> <a href=\"https://www.youtube.com/hashtag/misteribahulaweyan\" rel=\"nofollow\">#MisteriBahulaweyan</a> <a href=\"https://www.youtube.com/hashtag/hororindonesia\" rel=\"nofollow\">#HororIndonesia</a> <a href=\"https://www.youtube.com/hashtag/legendamengerikan\" rel=\"nofollow\">#LegendaMengerikan</a> <a href=\"https://www.youtube.com/hashtag/kisahmistis\" rel=\"nofollow\">#KisahMistis</a> <a href=\"https://www.youtube.com/hashtag/ceritahantu\" rel=\"nofollow\">#CeritaHantu</a> <a href=\"https://www.youtube.com/hashtag/batikhoror\" rel=\"nofollow\">#BatikHoror</a></p>",
+                "duration_ms": 472735,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/62JkUWbZsAJOvqIxlR10h8"
+                },
+                "href": "https://api.spotify.com/v1/episodes/62JkUWbZsAJOvqIxlR10h8",
+                "id": "62JkUWbZsAJOvqIxlR10h8",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a05fe3a29a836fd82211b7343",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f05fe3a29a836fd82211b7343",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d05fe3a29a836fd82211b7343",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Nasib Tragis! : Kutukan yang Menghantui Perempuan Bahulaweyan",
+                "release_date": "2024-12-11",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:62JkUWbZsAJOvqIxlR10h8"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5BKPbqvJQgG2wBETB4QWgD/clip_634040_694040.mp3",
+                "description": "Marsinah ditemukan tidak berdaya setelah memperjuangkan hak-hak buruh di pabrik tempatnya bekerja. Apa yang sebenarnya terjadi? Temukan kisah perjuangan, pengkhianatan, dan keadilan yang tertunda dalam tragedi ini. #Marsinah #HakBuruh #aktivis",
+                "html_description": "<p>Marsinah ditemukan tidak berdaya setelah memperjuangkan hak-hak buruh di pabrik tempatnya bekerja. Apa yang sebenarnya terjadi? Temukan kisah perjuangan, pengkhianatan, dan keadilan yang tertunda dalam tragedi ini. <a href=\"https://www.youtube.com/hashtag/marsinah\" rel=\"nofollow\">#Marsinah</a> <a href=\"https://www.youtube.com/hashtag/hakburuh\" rel=\"nofollow\">#HakBuruh</a> <a href=\"https://www.youtube.com/hashtag/aktivis\" rel=\"nofollow\">#aktivis</a></p>",
+                "duration_ms": 1227081,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5sMXgTsOyiDofvwvKHl1tE"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5sMXgTsOyiDofvwvKHl1tE",
+                "id": "5sMXgTsOyiDofvwvKHl1tE",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a78d5e58eecaf2238695e781d",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f78d5e58eecaf2238695e781d",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d78d5e58eecaf2238695e781d",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Menguak Kasus Marsinah: Perjuangan dan Pengkhianatan",
+                "release_date": "2024-12-10",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5sMXgTsOyiDofvwvKHl1tE"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6tTp31IL27E3gGK3MFkX4N/clip_129697_189697.mp3",
+                "description": "Eksplorasi legenda kuno yang membingungkan ini tentang dua anak dengan kulit hijau misterius yang muncul di desa Woolpit, Inggris. Menurut legenda, mereka berasal dari \"Tanah Hijau\" yang tidak diketahui.  Temukan lebih banyak tentang teori-teori yang mencoba menjelaskan misteri ini, dari cerita fantastis hingga kemungkinan sejarah di baliknya. Apakah cerita ini benar-benar nyata atau hanya mitos zaman dulu?  Jangan lewatkan untuk mendapatkan wawasan mendalam tentang salah satu misteri terbesar dari zaman medieval!   #TheGreenChildrenOfWoolpit #MisteriAbadKe12 #LegendaInggris #YouTubeKonten",
+                "html_description": "<p>Eksplorasi legenda kuno yang membingungkan ini tentang dua anak dengan kulit hijau misterius yang muncul di desa Woolpit, Inggris. Menurut legenda, mereka berasal dari &#34;Tanah Hijau&#34; yang tidak diketahui.<br/>Temukan lebih banyak tentang teori-teori yang mencoba menjelaskan misteri ini, dari cerita fantastis hingga kemungkinan sejarah di baliknya. Apakah cerita ini benar-benar nyata atau hanya mitos zaman dulu?<br/>Jangan lewatkan untuk mendapatkan wawasan mendalam tentang salah satu misteri terbesar dari zaman medieval! <br/><a href=\"https://www.youtube.com/hashtag/thegreenchildrenofwoolpit\" rel=\"nofollow\">#TheGreenChildrenOfWoolpit</a> <a href=\"https://www.youtube.com/hashtag/misteriabadke12\" rel=\"nofollow\">#MisteriAbadKe12</a> <a href=\"https://www.youtube.com/hashtag/legendainggris\" rel=\"nofollow\">#LegendaInggris</a> <a href=\"https://www.youtube.com/hashtag/youtubekonten\" rel=\"nofollow\">#YouTubeKonten</a></p>",
+                "duration_ms": 1118783,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6d3UiXRQAgrQJgDogKCqVI"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6d3UiXRQAgrQJgDogKCqVI",
+                "id": "6d3UiXRQAgrQJgDogKCqVI",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ac3a057f3a5d247443ae370a8",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fc3a057f3a5d247443ae370a8",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dc3a057f3a5d247443ae370a8",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "The Green Woolpit: Misteri Anak-Anak Hijau dari Abad ke-12",
+                "release_date": "2024-12-09",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6d3UiXRQAgrQJgDogKCqVI"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0I603qDprdbjsuOoGDbcX0/clip_296852_356852.mp3",
+                "description": "Kali ini Kita bakalan Ngebahas Kasus yang sempat Menghebohkan Masyarakat Indonesia yaitu \"Sumanto Si Kan1b4l\"",
+                "html_description": "<p>Kali ini Kita bakalan Ngebahas Kasus yang sempat Menghebohkan Masyarakat Indonesia yaitu &#34;Sumanto Si Kan1b4l&#34;</p>",
+                "duration_ms": 560808,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2hPSTlOuHdJX8lOS5S4Utc"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2hPSTlOuHdJX8lOS5S4Utc",
+                "id": "2hPSTlOuHdJX8lOS5S4Utc",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ad7173686a6ddb2370fe2935d",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fd7173686a6ddb2370fe2935d",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dd7173686a6ddb2370fe2935d",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "MENYANTAP D4G1NG M4Y4T MANUSIA | PODCAST BAU TANAH",
+                "release_date": "2024-12-06",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2hPSTlOuHdJX8lOS5S4Utc"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1HxtD9zC2jPobr9JZ4emQO/clip_519787_579787.mp3",
+                "description": "Di episode podcast Bau Tanah kali ini, kami menyajikan kisah yang penuh dengan misteri dan kengerian: \"DI DERMAGA INI SETIAP TAHUN 5 ORANG M4T1!!!\".  Siap-siap untuk merinding dan penasaran dengan kisah-kisah yang akan dibagikan!  Jangan lupa untuk subscribe, like, dan share podcast ini ke teman-temanmu!",
+                "html_description": "<p>Di episode podcast Bau Tanah kali ini, kami menyajikan kisah yang penuh dengan misteri dan kengerian: &#34;DI DERMAGA INI SETIAP TAHUN 5 ORANG M4T1!!!&#34;.<br/>Siap-siap untuk merinding dan penasaran dengan kisah-kisah yang akan dibagikan!<br/>Jangan lupa untuk subscribe, like, dan share podcast ini ke teman-temanmu!</p>",
+                "duration_ms": 2261019,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6tQ2dbt7evcRbbfSuQym9n"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6tQ2dbt7evcRbbfSuQym9n",
+                "id": "6tQ2dbt7evcRbbfSuQym9n",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aeb243e82f0940461867a338a",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1feb243e82f0940461867a338a",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68deb243e82f0940461867a338a",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "DI DERMAGA INI SETIAP TAHUN 5 ORANG M4T1!!!",
+                "release_date": "2024-12-05",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6tQ2dbt7evcRbbfSuQym9n"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1uuPhCRUmrYDsmxS6fcL72/clip_311730_371730.mp3",
+                "description": "Di episode podcast Bau Tanah kali ini, kami menyajikan kisah yang penuh dengan misteri dan kengerian: \"DIMENSI GAIB MENIPIS SAAT MALAM SATU SURO\"  Apakah Anda pernah mendengar cerita tentang malam 1 surro?  Siap-siap untuk merinding dan penasaran dengan kisah-kisah yang akan dibagikan!  Jangan lupa untuk subscribe, like, dan share podcast ini ke teman-temanmu!",
+                "html_description": "<p>Di episode podcast Bau Tanah kali ini, kami menyajikan kisah yang penuh dengan misteri dan kengerian: &#34;DIMENSI GAIB MENIPIS SAAT MALAM SATU SURO&#34;<br/>Apakah Anda pernah mendengar cerita tentang malam 1 surro?<br/>Siap-siap untuk merinding dan penasaran dengan kisah-kisah yang akan dibagikan!<br/>Jangan lupa untuk subscribe, like, dan share podcast ini ke teman-temanmu!</p>",
+                "duration_ms": 458686,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2roPdch1ijj4H5exOkWlQG"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2roPdch1ijj4H5exOkWlQG",
+                "id": "2roPdch1ijj4H5exOkWlQG",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a693fd1258ba99349b7cd255f",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f693fd1258ba99349b7cd255f",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d693fd1258ba99349b7cd255f",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "DIMENSI GAIB MENIPIS SAAT MALAM SATU SURO",
+                "release_date": "2024-12-04",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2roPdch1ijj4H5exOkWlQG"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0nlTsSftimLRdwPzTsbI8H/clip_627313_687313.mp3",
+                "description": "Selamat datang di Kelanara Studio!  Di episode podcast Bau Tanah kali ini, kami menyajikan kisah yang penuh dengan misteri dan kengerian: \"MEMAKAI K3P4LA UNTUK PONDASI GEDUNG TUMB4AL PROYEK\"  Apakah Anda pernah mendengar cerita tentang tumbal proyek? Bagaimana mereka mengorbankan nyawa salah satu dari pekerja sebagai seserahan kepada IBLIS untuk ditumbalkan.  Siap-siap untuk merinding dan penasaran dengan kisah-kisah yang akan dibagikan!  Jangan lupa untuk subscribe, like, dan share podcast ini ke teman-temanmu!  #tumbal #tumbalproyek #proyek #misteri",
+                "html_description": "<p>Selamat datang di Kelanara Studio!<br/>Di episode podcast Bau Tanah kali ini, kami menyajikan kisah yang penuh dengan misteri dan kengerian: &#34;MEMAKAI K3P4LA UNTUK PONDASI GEDUNG TUMB4AL PROYEK&#34;<br/>Apakah Anda pernah mendengar cerita tentang tumbal proyek? Bagaimana mereka mengorbankan nyawa salah satu dari pekerja sebagai seserahan kepada IBLIS untuk ditumbalkan.<br/>Siap-siap untuk merinding dan penasaran dengan kisah-kisah yang akan dibagikan!<br/>Jangan lupa untuk subscribe, like, dan share podcast ini ke teman-temanmu!<br/><a href=\"https://www.youtube.com/hashtag/tumbal\" rel=\"nofollow\">#tumbal</a> <a href=\"https://www.youtube.com/hashtag/tumbalproyek\" rel=\"nofollow\">#tumbalproyek</a> <a href=\"https://www.youtube.com/hashtag/proyek\" rel=\"nofollow\">#proyek</a> <a href=\"https://www.youtube.com/hashtag/misteri\" rel=\"nofollow\">#misteri</a></p>",
+                "duration_ms": 1418553,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/1Ff1l6Omkm9xnwqv2KjXLg"
+                },
+                "href": "https://api.spotify.com/v1/episodes/1Ff1l6Omkm9xnwqv2KjXLg",
+                "id": "1Ff1l6Omkm9xnwqv2KjXLg",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aeadac365ba956566bb211436",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1feadac365ba956566bb211436",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68deadac365ba956566bb211436",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "MEMAKAI K3P4LA UNTUK TUMB4AL PROYEK",
+                "release_date": "2024-12-03",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:1Ff1l6Omkm9xnwqv2KjXLg"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0CsMKPvxECOUHMNPMfXcTs/clip_254030_314030.mp3",
+                "description": "Selamat datang di Kelanara Studio! Di episode kali ini, podcast \"Bau Tanah\" akan membawa Anda ke dalam kisah penuh misteri dengan judul \"DIBALIK KAMPUNG MATI YANG MENJADI SARANG DEMIT\".  Apakah Anda pernah mendengar tentang Kampung Gajah? Sebuah tempat wisata yang dahulu sempat ramai dan terkenal kemudian ditutup dan menjadi terbengkalai. Dalam episode ini, kami akan mengungkap misteri dari Kampung Gajah ditemani oleh narasumber kami yang akan menceritakan misteri dari tempat itu.  Jangan lewatkan episode penuh misteri dan adrenalin ini! Pastikan Anda menonton hingga akhir, karena mungkin saja Anda akan menemukan jawaban dari pertanyaan-pertanyaan yang selama ini menghantui.  Jangan lupa untuk LIKE, COMMENT, dan SUBSCRIBE untuk mendapatkan update terbaru dari podcast Bau Tanah dan konten menarik lainnya dari Kelanara Studio.  \"Disclaimer: Video ini disajikan semata-mata untuk tujuan hiburan. Konten yang ditampilkan mungkin tidak cocok untuk semua penonton. Jika ada kesamaan dengan pengalaman atau cerita lain, itu tidak disengaja. Mohon tonton dengan bijak dan ingat untuk tidak mengambilnya terlalu serius.\"  #Misteri #kampunggajah #KisahMisteri #CeritaHoror",
+                "html_description": "<p>Selamat datang di Kelanara Studio! Di episode kali ini, podcast &#34;Bau Tanah&#34; akan membawa Anda ke dalam kisah penuh misteri dengan judul &#34;DIBALIK KAMPUNG MATI YANG MENJADI SARANG DEMIT&#34;.<br/>Apakah Anda pernah mendengar tentang Kampung Gajah? Sebuah tempat wisata yang dahulu sempat ramai dan terkenal kemudian ditutup dan menjadi terbengkalai. Dalam episode ini, kami akan mengungkap misteri dari Kampung Gajah ditemani oleh narasumber kami yang akan menceritakan misteri dari tempat itu.<br/>Jangan lewatkan episode penuh misteri dan adrenalin ini! Pastikan Anda menonton hingga akhir, karena mungkin saja Anda akan menemukan jawaban dari pertanyaan-pertanyaan yang selama ini menghantui.<br/>Jangan lupa untuk LIKE, COMMENT, dan SUBSCRIBE untuk mendapatkan update terbaru dari podcast Bau Tanah dan konten menarik lainnya dari Kelanara Studio.<br/>&#34;Disclaimer: Video ini disajikan semata-mata untuk tujuan hiburan. Konten yang ditampilkan mungkin tidak cocok untuk semua penonton. Jika ada kesamaan dengan pengalaman atau cerita lain, itu tidak disengaja. Mohon tonton dengan bijak dan ingat untuk tidak mengambilnya terlalu serius.&#34;<br/><a href=\"https://www.youtube.com/hashtag/misteri\" rel=\"nofollow\">#Misteri</a> <a href=\"https://www.youtube.com/hashtag/kampunggajah\" rel=\"nofollow\">#kampunggajah</a> <a href=\"https://www.youtube.com/hashtag/kisahmisteri\" rel=\"nofollow\">#KisahMisteri</a> <a href=\"https://www.youtube.com/hashtag/ceritahoror\" rel=\"nofollow\">#CeritaHoror</a></p>",
+                "duration_ms": 2273024,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6xSD9VzNARFP6rNMQv2u0X"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6xSD9VzNARFP6rNMQv2u0X",
+                "id": "6xSD9VzNARFP6rNMQv2u0X",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a9b0a6fba7e6b755eb4faa1fe",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f9b0a6fba7e6b755eb4faa1fe",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d9b0a6fba7e6b755eb4faa1fe",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "DIBALIK KAMPUNG MATI YANG MENJADI SARANG DEMIT",
+                "release_date": "2024-12-02",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6xSD9VzNARFP6rNMQv2u0X"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5jXtaR6xgBFxrdCmGKOZ8p/clip_519012_579012.mp3",
+                "description": "Saksikan eksplorasi mendalam kami tentang kisah gelap dari masa lalu Indonesia: Wirdjo Sang Pembantai. Cerita ini mengisahkan seorang sosok misterius yang konon melakukan tindak kekerasan di pedalaman, meninggalkan petunjuk yang menggugah untuk ditelusuri. Apakah Wirdjo hanyalah mitos atau ada bukti yang lebih dalam?  Mari kita selami bersama fakta dan spekulasi seputar sosok ini yang masih menyisakan misteri hingga hari ini. Jangan lewatkan untuk mengeksplorasi dan mendiskusikan teori-teori terkait kehadiran Wirdjo dalam sejarah dan legenda lokal.  Tonton sekarang untuk memahami lebih dalam tentang salah satu misteri paling menarik dari Indonesia! 🕵️‍♂️🏞️  #WirdjoSangPembantai #MisteriIndonesia #LegendaPedalaman #youtubekonten",
+                "html_description": "<p>Saksikan eksplorasi mendalam kami tentang kisah gelap dari masa lalu Indonesia: Wirdjo Sang Pembantai. Cerita ini mengisahkan seorang sosok misterius yang konon melakukan tindak kekerasan di pedalaman, meninggalkan petunjuk yang menggugah untuk ditelusuri. Apakah Wirdjo hanyalah mitos atau ada bukti yang lebih dalam?<br/>Mari kita selami bersama fakta dan spekulasi seputar sosok ini yang masih menyisakan misteri hingga hari ini. Jangan lewatkan untuk mengeksplorasi dan mendiskusikan teori-teori terkait kehadiran Wirdjo dalam sejarah dan legenda lokal.<br/>Tonton sekarang untuk memahami lebih dalam tentang salah satu misteri paling menarik dari Indonesia! &#x1f575;️‍♂️&#x1f3de;️<br/><a href=\"https://www.youtube.com/hashtag/wirdjosangpembantai\" rel=\"nofollow\">#WirdjoSangPembantai</a> <a href=\"https://www.youtube.com/hashtag/misteriindonesia\" rel=\"nofollow\">#MisteriIndonesia</a> <a href=\"https://www.youtube.com/hashtag/legendapedalaman\" rel=\"nofollow\">#LegendaPedalaman</a> <a href=\"https://www.youtube.com/hashtag/youtubekonten\" rel=\"nofollow\">#youtubekonten</a></p>",
+                "duration_ms": 1164039,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6phnU7Ko3dAHaD2xgZ5SoC"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6phnU7Ko3dAHaD2xgZ5SoC",
+                "id": "6phnU7Ko3dAHaD2xgZ5SoC",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ae4743a51ee2f6d4d74240f70",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fe4743a51ee2f6d4d74240f70",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68de4743a51ee2f6d4d74240f70",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Misteri Wirdjo Sang Pembantai: Legenda atau Kehidupan Nyata?",
+                "release_date": "2024-11-28",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6phnU7Ko3dAHaD2xgZ5SoC"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6HYNJTcXUgubRsLMzt96AB/clip_324116_384116.mp3",
+                "description": "Saksikan pengungkapan yang memilukan tentang kehidupan ABK nelayan, yang sering kali menyimpan rahasia kelam di balik keindahan laut. Dalam eksplorasi ini, kami membawa Anda mendekati kisah-kisah yang jarang terungkap tentang keberanian, kekerasan, dan ketidakpastian yang dihadapi oleh para pekerja laut ini.  Temukan cerita-cerita yang mengharukan dan fakta-fakta yang mengejutkan tentang kehidupan di atas kapal, serta bagaimana masa lalu dan masa kini mereka saling terkait. Apakah ini hanya satu sisi dari kisah nelayan, atau mungkin lebih banyak lagi yang perlu kita ketahui?  Tonton video ini untuk mendapatkan wawasan yang mendalam tentang misteri gelap di balik pekerjaan yang keras ini. Jangan lupa untuk berbagi pendapat dan pengalaman Anda di kolom komentar! 🕵️‍♂️⚓  #ABKNelayan #MisteriLautan #KisahNelayan #YouTubeKonten",
+                "html_description": "<p>Saksikan pengungkapan yang memilukan tentang kehidupan ABK nelayan, yang sering kali menyimpan rahasia kelam di balik keindahan laut. Dalam eksplorasi ini, kami membawa Anda mendekati kisah-kisah yang jarang terungkap tentang keberanian, kekerasan, dan ketidakpastian yang dihadapi oleh para pekerja laut ini.<br/>Temukan cerita-cerita yang mengharukan dan fakta-fakta yang mengejutkan tentang kehidupan di atas kapal, serta bagaimana masa lalu dan masa kini mereka saling terkait. Apakah ini hanya satu sisi dari kisah nelayan, atau mungkin lebih banyak lagi yang perlu kita ketahui?<br/>Tonton video ini untuk mendapatkan wawasan yang mendalam tentang misteri gelap di balik pekerjaan yang keras ini. Jangan lupa untuk berbagi pendapat dan pengalaman Anda di kolom komentar! &#x1f575;️‍♂️⚓<br/><a href=\"https://www.youtube.com/hashtag/abknelayan\" rel=\"nofollow\">#ABKNelayan</a> <a href=\"https://www.youtube.com/hashtag/misterilautan\" rel=\"nofollow\">#MisteriLautan</a> <a href=\"https://www.youtube.com/hashtag/kisahnelayan\" rel=\"nofollow\">#KisahNelayan</a> <a href=\"https://www.youtube.com/hashtag/youtubekonten\" rel=\"nofollow\">#YouTubeKonten</a></p>",
+                "duration_ms": 3754504,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/40URoN2b9aGyQWkl5RkgZX"
+                },
+                "href": "https://api.spotify.com/v1/episodes/40URoN2b9aGyQWkl5RkgZX",
+                "id": "40URoN2b9aGyQWkl5RkgZX",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a3c3d7976d39cece868fac9cc",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f3c3d7976d39cece868fac9cc",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d3c3d7976d39cece868fac9cc",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Misteri Sisi Gelap ABK Nelayan: Kisah yang Tersembunyi di Lautan",
+                "release_date": "2024-11-28",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:40URoN2b9aGyQWkl5RkgZX"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/67HR9TaUrrLRYKAVZpvrLx/clip_388922_448922.mp3",
+                "description": "Selamat datang di Kelanara Studio!  Di episode podcast Bau Tanah kali ini, kami menyajikan kisah yang penuh dengan misteri dan kengerian: \"Dukun Santet: Mediator Pesugihan Monyet\". Dalam episode ini, kita akan membahas berbagai cerita dan mitos seputar dukun santet yang menjadi perantara dalam pesugihan menggunakan monyet.  Apakah Anda pernah mendengar cerita tentang orang-orang yang mencari kekayaan instan melalui jalur gaib? Bagaimana mereka berhubungan dengan para dukun dan apa peran monyet dalam ritual pesugihan ini? Bergabunglah bersama kami untuk menyelami lebih dalam dunia supranatural yang menegangkan ini.  Siap-siap untuk merinding dan penasaran dengan kisah-kisah yang akan dibagikan!  Jangan lupa untuk subscribe, like, dan share podcast ini ke teman-temanmu!  #dukun #santet #pesugihan",
+                "html_description": "<p>Selamat datang di Kelanara Studio!<br/>Di episode podcast Bau Tanah kali ini, kami menyajikan kisah yang penuh dengan misteri dan kengerian: &#34;Dukun Santet: Mediator Pesugihan Monyet&#34;. Dalam episode ini, kita akan membahas berbagai cerita dan mitos seputar dukun santet yang menjadi perantara dalam pesugihan menggunakan monyet.<br/>Apakah Anda pernah mendengar cerita tentang orang-orang yang mencari kekayaan instan melalui jalur gaib? Bagaimana mereka berhubungan dengan para dukun dan apa peran monyet dalam ritual pesugihan ini? Bergabunglah bersama kami untuk menyelami lebih dalam dunia supranatural yang menegangkan ini.<br/>Siap-siap untuk merinding dan penasaran dengan kisah-kisah yang akan dibagikan!<br/>Jangan lupa untuk subscribe, like, dan share podcast ini ke teman-temanmu!<br/><a href=\"https://www.youtube.com/hashtag/dukun\" rel=\"nofollow\">#dukun</a> <a href=\"https://www.youtube.com/hashtag/santet\" rel=\"nofollow\">#santet</a> <a href=\"https://www.youtube.com/hashtag/pesugihan\" rel=\"nofollow\">#pesugihan</a></p>",
+                "duration_ms": 3031132,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/6NUySrTLsY46rEpucdzfIv"
+                },
+                "href": "https://api.spotify.com/v1/episodes/6NUySrTLsY46rEpucdzfIv",
+                "id": "6NUySrTLsY46rEpucdzfIv",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a513b28facb46a0e20c8244f2",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f513b28facb46a0e20c8244f2",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d513b28facb46a0e20c8244f2",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "PENGAKUAN SEORANG DUKUN SANTET - PERANTARA PESUGIHAN MONYET",
+                "release_date": "2024-11-25",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:6NUySrTLsY46rEpucdzfIv"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1OEgoOZhoPi0TNot90T4vU/clip_400542_460542.mp3",
+                "description": "Pernah denger lagu yang bikin kamu merasa ada sesuatu yang aneh di baliknya? Di video kali ini, kita bakal bahas 7 lagu misterius yang nggak cuma bikin penasaran, tapi juga punya banyak tanda tanya. Mulai dari lagu yang katanya punya pesan tersembunyi, sampai yang terinspirasi dari kejadian-kejadian aneh dan nggak terjelaskan. Semua bakal kita bongkar di sini!  Tonton sampai habis ya, karena mungkin aja kamu bakal nemuin rahasia yang belum pernah kamu denger sebelumnya! Jangan lupa like, share, dan subscribe biar nggak ketinggalan video seru lainnya!",
+                "html_description": "<p>Pernah denger lagu yang bikin kamu merasa ada sesuatu yang aneh di baliknya? Di video kali ini, kita bakal bahas 7 lagu misterius yang nggak cuma bikin penasaran, tapi juga punya banyak tanda tanya. Mulai dari lagu yang katanya punya pesan tersembunyi, sampai yang terinspirasi dari kejadian-kejadian aneh dan nggak terjelaskan. Semua bakal kita bongkar di sini!<br/>Tonton sampai habis ya, karena mungkin aja kamu bakal nemuin rahasia yang belum pernah kamu denger sebelumnya! Jangan lupa like, share, dan subscribe biar nggak ketinggalan video seru lainnya!</p>",
+                "duration_ms": 524678,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7EW44VYiE1Y7oaYGGf7V5M"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7EW44VYiE1Y7oaYGGf7V5M",
+                "id": "7EW44VYiE1Y7oaYGGf7V5M",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8acb0bb8fca0a6209810db71fd",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fcb0bb8fca0a6209810db71fd",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dcb0bb8fca0a6209810db71fd",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "7 Lagu Pemanggil Hantu Paling MISTERIUS yang Ternyata Punya Rahasia Gelap!",
+                "release_date": "2024-11-23",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7EW44VYiE1Y7oaYGGf7V5M"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0oAR0xZyQDhjaa4OTpwmQ1/clip_125951_185951.mp3",
+                "description": "Selamat datang di Kelanara Studio! Di episode kali ini, podcast \"Bau Tanah\" akan membawa Anda ke dalam kisah yang mencekam dan penuh misteri dengan judul \"Pocong Hitam Penunggu Gunung Bohong\".  Apakah Anda pernah mendengar tentang Gunung Bohong? Sebuah gunung yang terkenal dengan cerita-cerita mistisnya. Dalam episode ini, kami akan mengungkap salah satu kisah paling menakutkan dari gunung tersebut - kisah tentang Pocong Hitam yang dipercaya sebagai penunggu Gunung Bohong.  Jangan lewatkan episode penuh misteri dan adrenalin ini! Pastikan Anda menonton hingga akhir, karena mungkin saja Anda akan menemukan jawaban dari pertanyaan-pertanyaan yang selama ini menghantui.  Jangan lupa untuk LIKE, COMMENT, dan SUBSCRIBE untuk mendapatkan update terbaru dari podcast Bau Tanah dan konten menarik lainnya dari Kelanara Studio.  \"Disclaimer: Video ini disajikan semata-mata untuk tujuan hiburan. Konten yang ditampilkan mungkin tidak cocok untuk semua penonton. Jika ada kesamaan dengan pengalaman atau cerita lain, itu tidak disengaja. Mohon tonton dengan bijak dan ingat untuk tidak mengambilnya terlalu serius.\"  #PocongHitam #GunungBohong #KisahMisteri #CeritaHoror",
+                "html_description": "<p>Selamat datang di Kelanara Studio! Di episode kali ini, podcast &#34;Bau Tanah&#34; akan membawa Anda ke dalam kisah yang mencekam dan penuh misteri dengan judul &#34;Pocong Hitam Penunggu Gunung Bohong&#34;.<br/>Apakah Anda pernah mendengar tentang Gunung Bohong? Sebuah gunung yang terkenal dengan cerita-cerita mistisnya. Dalam episode ini, kami akan mengungkap salah satu kisah paling menakutkan dari gunung tersebut - kisah tentang Pocong Hitam yang dipercaya sebagai penunggu Gunung Bohong.<br/>Jangan lewatkan episode penuh misteri dan adrenalin ini! Pastikan Anda menonton hingga akhir, karena mungkin saja Anda akan menemukan jawaban dari pertanyaan-pertanyaan yang selama ini menghantui.<br/>Jangan lupa untuk LIKE, COMMENT, dan SUBSCRIBE untuk mendapatkan update terbaru dari podcast Bau Tanah dan konten menarik lainnya dari Kelanara Studio.<br/>&#34;Disclaimer: Video ini disajikan semata-mata untuk tujuan hiburan. Konten yang ditampilkan mungkin tidak cocok untuk semua penonton. Jika ada kesamaan dengan pengalaman atau cerita lain, itu tidak disengaja. Mohon tonton dengan bijak dan ingat untuk tidak mengambilnya terlalu serius.&#34;<br/><a href=\"https://www.youtube.com/hashtag/poconghitam\" rel=\"nofollow\">#PocongHitam</a> <a href=\"https://www.youtube.com/hashtag/gunungbohong\" rel=\"nofollow\">#GunungBohong</a> <a href=\"https://www.youtube.com/hashtag/kisahmisteri\" rel=\"nofollow\">#KisahMisteri</a> <a href=\"https://www.youtube.com/hashtag/ceritahoror\" rel=\"nofollow\">#CeritaHoror</a></p>",
+                "duration_ms": 1535791,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0knTN6lnN00YmWpX1yFUKs"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0knTN6lnN00YmWpX1yFUKs",
+                "id": "0knTN6lnN00YmWpX1yFUKs",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a79ffa8a3319474eb4ccdb837",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f79ffa8a3319474eb4ccdb837",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d79ffa8a3319474eb4ccdb837",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "POCONG HITAM PENUNGGU GUNUNG BOHONG",
+                "release_date": "2024-11-21",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0knTN6lnN00YmWpX1yFUKs"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4H0qtqdKrix6VbzLjZLLSI/clip_281587_341587.mp3",
+                "description": "Apakah kamu pernah mendengar tentang naskah kuno yang menyimpan misteri dan kutukan mengerikan? Di video ini, kami akan membahas 7 manuscript paling mengerikan yang pernah ditemukan di berbagai belahan dunia. Dari teks-teks terlarang hingga ramalan gelap yang membawa petaka, setiap naskah ini memiliki cerita yang membuat bulu kuduk berdiri.   ⚠️ Apakah kamu berani menelusuri rahasia di balik kata-kata mematikan ini? Tonton sampai akhir untuk menemukan kisah menyeramkan di setiap manuskrip.   Jangan lupa untuk Like, Comment, dan Subscribe agar tidak ketinggalan konten menarik dari Kelanara Studio!    #ManuskripMengerikan #MisteriKuno #KelanaraStudio #Horor",
+                "html_description": "<p>Apakah kamu pernah mendengar tentang naskah kuno yang menyimpan misteri dan kutukan mengerikan? Di video ini, kami akan membahas 7 manuscript paling mengerikan yang pernah ditemukan di berbagai belahan dunia. Dari teks-teks terlarang hingga ramalan gelap yang membawa petaka, setiap naskah ini memiliki cerita yang membuat bulu kuduk berdiri. <br/>⚠️ Apakah kamu berani menelusuri rahasia di balik kata-kata mematikan ini? Tonton sampai akhir untuk menemukan kisah menyeramkan di setiap manuskrip. <br/>Jangan lupa untuk Like, Comment, dan Subscribe agar tidak ketinggalan konten menarik dari Kelanara Studio!  <br/><a href=\"https://www.youtube.com/hashtag/manuskripmengerikan\" rel=\"nofollow\">#ManuskripMengerikan</a> <a href=\"https://www.youtube.com/hashtag/misterikuno\" rel=\"nofollow\">#MisteriKuno</a> <a href=\"https://www.youtube.com/hashtag/kelanarastudio\" rel=\"nofollow\">#KelanaraStudio</a> <a href=\"https://www.youtube.com/hashtag/horor\" rel=\"nofollow\">#Horor</a></p>",
+                "duration_ms": 656985,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7uIgWM7oGQKSKJz2EOUrKa"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7uIgWM7oGQKSKJz2EOUrKa",
+                "id": "7uIgWM7oGQKSKJz2EOUrKa",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ade3db291bb719a50cc49530e",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fde3db291bb719a50cc49530e",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dde3db291bb719a50cc49530e",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "7 Manuscript Paling Mengerikan yang Pernah Ditemukan",
+                "release_date": "2024-11-15",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7uIgWM7oGQKSKJz2EOUrKa"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/70WWzY8NE6e7xwFkzdarrD/clip_597164_657164.mp3",
+                "description": "Dalam video ini, kita akan menjelajahi dunia mistis yang penuh misteri dan legenda dari berbagai pelosok Nusantara. Menghadirkan kisah-kisah mistis yang diwariskan secara turun-temurun, kami menggali lebih dalam bagaimana kearifan lokal membentuk persepsi dan kepercayaan masyarakat terhadap hal-hal gaib. Mulai dari cerita tentang makhluk halus, ritual adat, hingga tempat-tempat angker yang sarat dengan mitos. Bersama kita akan menemukan bagaimana budaya lokal menjadi pilar penting dalam menjaga tradisi dan misteri di tengah modernisasi. Jangan lupa untuk like, share, dan subscribe agar tidak ketinggalan kisah-kisah menarik lainnya!",
+                "html_description": "<p>Dalam video ini, kita akan menjelajahi dunia mistis yang penuh misteri dan legenda dari berbagai pelosok Nusantara. Menghadirkan kisah-kisah mistis yang diwariskan secara turun-temurun, kami menggali lebih dalam bagaimana kearifan lokal membentuk persepsi dan kepercayaan masyarakat terhadap hal-hal gaib. Mulai dari cerita tentang makhluk halus, ritual adat, hingga tempat-tempat angker yang sarat dengan mitos. Bersama kita akan menemukan bagaimana budaya lokal menjadi pilar penting dalam menjaga tradisi dan misteri di tengah modernisasi. Jangan lupa untuk like, share, dan subscribe agar tidak ketinggalan kisah-kisah menarik lainnya!</p>",
+                "duration_ms": 684268,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7qm9s3cwdXTQjILq5woZTB"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7qm9s3cwdXTQjILq5woZTB",
+                "id": "7qm9s3cwdXTQjILq5woZTB",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8acb811d8b1a27629d5e7b184e",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fcb811d8b1a27629d5e7b184e",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dcb811d8b1a27629d5e7b184e",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "Menelusuri Misteri dengan Kearifan Lokal: Menguak Kisah-kisah Mistis Nusantara",
+                "release_date": "2024-11-14",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7qm9s3cwdXTQjILq5woZTB"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4HBUhC3bWda1tr5imXVRlG/clip_650161_710161.mp3",
+                "description": "Selamat datang di Kelanara Studio!  Di episode kali ini, kami akan membahas fenomena Leak Bali, sebuah tradisi mistis yang penuh misteri. Leak dikenal sebagai sosok yang menguasai ilmu hitam, namun apakah sebenarnya selalu demikian? Apakah ada sisi lain dari cerita ini yang belum terungkap?  Jangan lewatkan episode yang penuh dengan pengetahuan dan cerita menarik ini! Pastikan untuk menyukai, berkomentar, dan berlangganan agar tidak ketinggalan episode-episode menarik lainnya dari Kelanara Studio. Terima kasih telah menonton!  ---  #LeakBali #IlmuHitam #IlmuPutih #KelanaraStudio #BudayaBali #MitosDanLegenda #SpiritualJourney #IndonesiaMystic #TradisiBali",
+                "html_description": "<p>Selamat datang di Kelanara Studio!<br/>Di episode kali ini, kami akan membahas fenomena Leak Bali, sebuah tradisi mistis yang penuh misteri. Leak dikenal sebagai sosok yang menguasai ilmu hitam, namun apakah sebenarnya selalu demikian? Apakah ada sisi lain dari cerita ini yang belum terungkap?<br/>Jangan lewatkan episode yang penuh dengan pengetahuan dan cerita menarik ini! Pastikan untuk menyukai, berkomentar, dan berlangganan agar tidak ketinggalan episode-episode menarik lainnya dari Kelanara Studio. Terima kasih telah menonton!<br/>---<br/><a href=\"https://www.youtube.com/hashtag/leakbali\" rel=\"nofollow\">#LeakBali</a> <a href=\"https://www.youtube.com/hashtag/ilmuhitam\" rel=\"nofollow\">#IlmuHitam</a> <a href=\"https://www.youtube.com/hashtag/ilmuputih\" rel=\"nofollow\">#IlmuPutih</a> <a href=\"https://www.youtube.com/hashtag/kelanarastudio\" rel=\"nofollow\">#KelanaraStudio</a> <a href=\"https://www.youtube.com/hashtag/budayabali\" rel=\"nofollow\">#BudayaBali</a> <a href=\"https://www.youtube.com/hashtag/mitosdanlegenda\" rel=\"nofollow\">#MitosDanLegenda</a> <a href=\"https://www.youtube.com/hashtag/spiritualjourney\" rel=\"nofollow\">#SpiritualJourney</a> <a href=\"https://www.youtube.com/hashtag/indonesiamystic\" rel=\"nofollow\">#IndonesiaMystic</a> <a href=\"https://www.youtube.com/hashtag/tradisibali\" rel=\"nofollow\">#TradisiBali</a></p>",
+                "duration_ms": 1176160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/5syzHnBJfTY86SZ3hppA9F"
+                },
+                "href": "https://api.spotify.com/v1/episodes/5syzHnBJfTY86SZ3hppA9F",
+                "id": "5syzHnBJfTY86SZ3hppA9F",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aec1dbceb16586219d66652d3",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fec1dbceb16586219d66652d3",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dec1dbceb16586219d66652d3",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "LEAK BALI ILMU HITAM ATAU PUTIH?",
+                "release_date": "2024-11-14",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:5syzHnBJfTY86SZ3hppA9F"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1KaZgGZp8h34c6kuFnKBMD/clip_171356_231356.mp3",
+                "description": "Selamat datang di episode terbaru Podcast Bau Tanah di Kelanara Studio! Kali ini, kami menghadirkan kisah nyata yang penuh misteri dan mistis bersama Pak Jio, seorang saksi hidup yang pernah mengalami serangan santet. Dalam perbincangan yang mendebarkan ini, Pak Jio berbagi pengalaman pribadinya menghadapi ilmu hitam, bagaimana ia menyadari adanya santet, dan perjuangannya untuk melawan balik.  Apakah santet benar-benar ada? Bagaimana cara mengenali tanda-tandanya? Dan yang paling penting, bagaimana cara melindungi diri dari serangan gaib ini? Temukan jawabannya di podcast kali ini.  Jangan lupa like, subscribe, dan nyalakan lonceng notifikasi agar tidak ketinggalan kisah-kisah mistis menarik lainnya di Kelanara Studio. Simak juga komentar dari para penonton dan bagikan pengalaman kalian tentang hal-hal gaib di kolom komentar!  #PodcastBauTanah #KelanaraStudio #MisteriSantet #PengalamanMistis #CeritaHoror #IlmuHitam #Santet",
+                "html_description": "<p>Selamat datang di episode terbaru Podcast Bau Tanah di Kelanara Studio! Kali ini, kami menghadirkan kisah nyata yang penuh misteri dan mistis bersama Pak Jio, seorang saksi hidup yang pernah mengalami serangan santet. Dalam perbincangan yang mendebarkan ini, Pak Jio berbagi pengalaman pribadinya menghadapi ilmu hitam, bagaimana ia menyadari adanya santet, dan perjuangannya untuk melawan balik.<br/>Apakah santet benar-benar ada? Bagaimana cara mengenali tanda-tandanya? Dan yang paling penting, bagaimana cara melindungi diri dari serangan gaib ini? Temukan jawabannya di podcast kali ini.<br/>Jangan lupa like, subscribe, dan nyalakan lonceng notifikasi agar tidak ketinggalan kisah-kisah mistis menarik lainnya di Kelanara Studio. Simak juga komentar dari para penonton dan bagikan pengalaman kalian tentang hal-hal gaib di kolom komentar!<br/><a href=\"https://www.youtube.com/hashtag/podcastbautanah\" rel=\"nofollow\">#PodcastBauTanah</a> <a href=\"https://www.youtube.com/hashtag/kelanarastudio\" rel=\"nofollow\">#KelanaraStudio</a> <a href=\"https://www.youtube.com/hashtag/misterisantet\" rel=\"nofollow\">#MisteriSantet</a> <a href=\"https://www.youtube.com/hashtag/pengalamanmistis\" rel=\"nofollow\">#PengalamanMistis</a> <a href=\"https://www.youtube.com/hashtag/ceritahoror\" rel=\"nofollow\">#CeritaHoror</a> <a href=\"https://www.youtube.com/hashtag/ilmuhitam\" rel=\"nofollow\">#IlmuHitam</a> <a href=\"https://www.youtube.com/hashtag/santet\" rel=\"nofollow\">#Santet</a></p>",
+                "duration_ms": 3452063,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/0dkwFcJVx7Gg3UPUvYjkOg"
+                },
+                "href": "https://api.spotify.com/v1/episodes/0dkwFcJVx7Gg3UPUvYjkOg",
+                "id": "0dkwFcJVx7Gg3UPUvYjkOg",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a2e88c417995360ac01dc7c89",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f2e88c417995360ac01dc7c89",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d2e88c417995360ac01dc7c89",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "PENGAKUAN MANTAN MURID DUKUN SANTET",
+                "release_date": "2024-05-30",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:0dkwFcJVx7Gg3UPUvYjkOg"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0FNjNqngGZI2UdLPopsa4q/clip_607623_667623.mp3",
+                "description": "Selamat datang di Kelanara Studio! Di channel ini, kami menghadirkan berbagai program menarik, salah satunya adalah Podcast Bau Tanah, di mana kami mengupas tuntas kisah-kisah misteri, mitos, dan pengalaman gaib yang belum terungkap.  Di episode kali ini, kami membahas cerita yang mengguncang Cirebon: ARWAH VINA BONGKAR KASUS KEMATIANNYA. Vina adalah seorang wanita muda yang kematiannya penuh dengan teka-teki dan misteri. Masyarakat sekitar percaya bahwa ada sesuatu yang tidak wajar dalam kematiannya.   Dalam episode ini, kita akan mendengarkan kisah Almh Vina, mendalami bukti-bukti yang ada, dan mencoba merangkai puzzle yang selama ini tersembunyi. Apa yang sebenarnya terjadi pada malam tragis itu? Semua akan kami bahas tuntas di podcast ini.  Selamat mendengarkan, dan semoga kita semua selalu dalam lindungan-Nya.  #PodcastBauTanah #KelanaraStudio #KisahMisteri #CeritaHoror #MisteriCirebon #ArwahVina #KasusKematian #HororIndonesia #CeritaGaib",
+                "html_description": "Selamat datang di Kelanara Studio! Di channel ini, kami menghadirkan berbagai program menarik, salah satunya adalah Podcast Bau Tanah, di mana kami mengupas tuntas kisah-kisah misteri, mitos, dan pengalaman gaib yang belum terungkap.<br/>Di episode kali ini, kami membahas cerita yang mengguncang Cirebon: ARWAH VINA BONGKAR KASUS KEMATIANNYA. Vina adalah seorang wanita muda yang kematiannya penuh dengan teka-teki dan misteri. Masyarakat sekitar percaya bahwa ada sesuatu yang tidak wajar dalam kematiannya. <br/>Dalam episode ini, kita akan mendengarkan kisah Almh Vina, mendalami bukti-bukti yang ada, dan mencoba merangkai puzzle yang selama ini tersembunyi. Apa yang sebenarnya terjadi pada malam tragis itu? Semua akan kami bahas tuntas di podcast ini.<br/>Selamat mendengarkan, dan semoga kita semua selalu dalam lindungan-Nya.<br/>#PodcastBauTanah #KelanaraStudio #KisahMisteri #CeritaHoror #MisteriCirebon #ArwahVina #KasusKematian #HororIndonesia #CeritaGaib",
+                "duration_ms": 1257456,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/2tLNPVKjujlwNSztBKlhBF"
+                },
+                "href": "https://api.spotify.com/v1/episodes/2tLNPVKjujlwNSztBKlhBF",
+                "id": "2tLNPVKjujlwNSztBKlhBF",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ad45a7ae293b9f29a426f4cca",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1fd45a7ae293b9f29a426f4cca",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68dd45a7ae293b9f29a426f4cca",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "ARWAH BONGKAR KASUS KEMATIANNYA SENDIRI! FAKTA SEBENARNYA KASUS VINA CIREBON",
+                "release_date": "2024-05-21",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:2tLNPVKjujlwNSztBKlhBF"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/32szbbnqg6MZ9fuJ9YN05M/clip_482626_542626.mp3",
+                "description": "Kantor seharusnya menjadi tempat yang aman dan profesional untuk bekerja. Namun, terkadang hal-hal tak terduga dapat terjadi dan menimbulkan ketakutan yang luar biasa. Dalam episode kali ini, kami akan menceritakan kisah-kisah horor yang dialami oleh para pekerja di kantor mereka.  Kami akan membawakan kisah nyata dari seorang pegawai yang mengalami pengalaman mengerikan saat bekerja lembur sendirian di kantor pada malam hari. Bunyi-bunyi aneh, bayangan misterius, dan kejadian tak masuk akal lainnya akan membuat bulu kuduk Anda berdiri.   Siapkan diri Anda untuk mendengarkan kisah-kisah yang akan membuat Anda berpikir dua kali sebelum bekerja lembur atau mengunjungi kantor sendirian pada malam hari. Jangan lewatkan episode \"Kejadian Horor di Kantor\" ini!",
+                "html_description": "<p>Kantor seharusnya menjadi tempat yang aman dan profesional untuk bekerja. Namun, terkadang hal-hal tak terduga dapat terjadi dan menimbulkan ketakutan yang luar biasa. Dalam episode kali ini, kami akan menceritakan kisah-kisah horor yang dialami oleh para pekerja di kantor mereka.</p><br/><p><br /></p><br/><p>Kami akan membawakan kisah nyata dari seorang pegawai yang mengalami pengalaman mengerikan saat bekerja lembur sendirian di kantor pada malam hari. Bunyi-bunyi aneh, bayangan misterius, dan kejadian tak masuk akal lainnya akan membuat bulu kuduk Anda berdiri.</p><br/><p><br/>Siapkan diri Anda untuk mendengarkan kisah-kisah yang akan membuat Anda berpikir dua kali sebelum bekerja lembur atau mengunjungi kantor sendirian pada malam hari. Jangan lewatkan episode &#34;Kejadian Horor di Kantor&#34; ini!</p>",
+                "duration_ms": 1408568,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/10QVbUbDXYT9pNqULrF1IM"
+                },
+                "href": "https://api.spotify.com/v1/episodes/10QVbUbDXYT9pNqULrF1IM",
+                "id": "10QVbUbDXYT9pNqULrF1IM",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a8099cedbe080b686fa74b2b8",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f8099cedbe080b686fa74b2b8",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d8099cedbe080b686fa74b2b8",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "PODCAST BAYANGAN - KEJADIAN HOROR DIKANTOR ",
+                "release_date": "2024-05-21",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:10QVbUbDXYT9pNqULrF1IM"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2VT6BUZP7BKznzBTyYBDLr/clip_502890_562890.mp3",
+                "description": "Leha mulai bisa berinteraksi dengan makhluk gaib sedari SMP. Leha bisa melihat dan merasakan kehadiran mereka. Awalnya, hanya beberapa sosok yang mendatanginya, tetapi seiring waktu, semakin banyak makhluk yang ingin berkomunikasi denganku. Ada yang sekedar meminta bantuan, ada juga yang ingin mengikuti leha.  Salah satu pengalaman yang paling berkesan adalah ketika seorang wanita dengan tali yang masih terikat di lehernya mendatangi leha. Dia meminta leha untuk menyampaikan pesan kepada keluarganya tentang alasan mengapa dia mengakhiri hidupnya. Namun, leha menolak karena khawatir pesan itu akan membawa aib bagi keluarganya. Meski begitu, leha selalu mendoakan mereka yang datang agar menemukan jalan mereka.  Jangan lupa untuk subscribe channel kami dan nyalakan lonceng notifikasi agar kamu tidak ketinggalan konten-konten horor terbaru dari kami!   Jangan lewatkan konten-konten baru kami setiap minggunya! Tekan tombol subscribe dan nyalakan loncengnya agar tidak ketinggalan video-video horor terbaru dari Kelanara Studio. Siapkan dirimu untuk merasakan ketakutan yang sesungguhnya!",
+                "html_description": "<p>Leha mulai bisa berinteraksi dengan makhluk gaib sedari SMP. Leha bisa melihat dan merasakan kehadiran mereka. Awalnya, hanya beberapa sosok yang mendatanginya, tetapi seiring waktu, semakin banyak makhluk yang ingin berkomunikasi denganku. Ada yang sekedar meminta bantuan, ada juga yang ingin mengikuti leha.</p><br/><p><br /></p><br/><p>Salah satu pengalaman yang paling berkesan adalah ketika seorang wanita dengan tali yang masih terikat di lehernya mendatangi leha. Dia meminta leha untuk menyampaikan pesan kepada keluarganya tentang alasan mengapa dia mengakhiri hidupnya. Namun, leha menolak karena khawatir pesan itu akan membawa aib bagi keluarganya. Meski begitu, leha selalu mendoakan mereka yang datang agar menemukan jalan mereka.</p><br/><p><br /></p><br/><p>Jangan lupa untuk subscribe channel kami dan nyalakan lonceng notifikasi agar kamu tidak ketinggalan konten-konten horor terbaru dari kami! </p><br/><p><br /></p><br/><p>Jangan lewatkan konten-konten baru kami setiap minggunya! Tekan tombol subscribe dan nyalakan loncengnya agar tidak ketinggalan video-video horor terbaru dari Kelanara Studio. Siapkan dirimu untuk merasakan ketakutan yang sesungguhnya!</p>",
+                "duration_ms": 2614823,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/7BIBMLuYuNFQz7SMRZsfwh"
+                },
+                "href": "https://api.spotify.com/v1/episodes/7BIBMLuYuNFQz7SMRZsfwh",
+                "id": "7BIBMLuYuNFQz7SMRZsfwh",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a0f17964ba88326d9e0d0694b",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f0f17964ba88326d9e0d0694b",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d0f17964ba88326d9e0d0694b",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "PEDIHNYA BELENGGU SANTET MBA LEHA PART 2",
+                "release_date": "2024-05-15",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:7BIBMLuYuNFQz7SMRZsfwh"
+            },
+            {
+                "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3PqOvtfBaKRW6TI2W24US1/clip_555298_615298.mp3",
+                "description": "Leha mulai bisa berinteraksi dengan makhluk gaib sedari SMP. Leha bisa melihat dan merasakan kehadiran mereka. Awalnya, hanya beberapa sosok yang mendatanginya, tetapi seiring waktu, semakin banyak makhluk yang ingin berkomunikasi denganku. Ada yang sekedar meminta bantuan, ada juga yang ingin mengikuti leha.  Salah satu pengalaman yang paling berkesan adalah ketika seorang wanita dengan tali yang masih terikat di lehernya mendatangi leha. Dia meminta leha untuk menyampaikan pesan kepada keluarganya tentang alasan mengapa dia mengakhiri hidupnya. Namun, leha menolak karena khawatir pesan itu akan membawa aib bagi keluarganya. Meski begitu, leha selalu mendoakan mereka yang datang agar menemukan jalan mereka.  Jangan lupa untuk subscribe channel kami dan nyalakan lonceng notifikasi agar kamu tidak ketinggalan konten-konten horor terbaru dari kami!   Jangan lewatkan konten-konten baru kami setiap minggunya! Tekan tombol subscrib dan nyalakan loncengnya agar tidak ketinggalan Konten - Konten horor terbaru dari Kelanara Studio. Siapkan dirimu untuk merasakan ketakutan yang sesungguhnya!",
+                "html_description": "<p>Leha mulai bisa berinteraksi dengan makhluk gaib sedari SMP. Leha bisa melihat dan merasakan kehadiran mereka. Awalnya, hanya beberapa sosok yang mendatanginya, tetapi seiring waktu, semakin banyak makhluk yang ingin berkomunikasi denganku. Ada yang sekedar meminta bantuan, ada juga yang ingin<br/>mengikuti leha.</p><br/><p><br /></p><br/><p>Salah satu pengalaman yang paling berkesan adalah ketika seorang wanita dengan tali yang masih terikat di lehernya mendatangi leha. Dia meminta leha untuk menyampaikan pesan kepada keluarganya tentang alasan mengapa dia mengakhiri hidupnya. Namun, leha menolak karena khawatir pesan itu akan membawa aib bagi keluarganya. Meski begitu, leha selalu mendoakan mereka yang datang agar menemukan jalan mereka.</p><br/><p><br /></p><br/><p>Jangan lupa untuk subscribe channel kami dan nyalakan<br/>lonceng notifikasi agar kamu tidak ketinggalan konten-konten horor terbaru dari<br/>kami! </p><br/><p><br /></p><br/><p>Jangan lewatkan konten-konten baru kami setiap minggunya! Tekan tombol subscrib dan nyalakan loncengnya agar tidak ketinggalan Konten - Konten<br/>horor terbaru dari Kelanara Studio. Siapkan dirimu untuk merasakan ketakutan yang sesungguhnya!</p>",
+                "duration_ms": 2874983,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/episode/4z794p0ssHztkIzP8pImgl"
+                },
+                "href": "https://api.spotify.com/v1/episodes/4z794p0ssHztkIzP8pImgl",
+                "id": "4z794p0ssHztkIzP8pImgl",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a5b987d3eec4b11c487b3e5ae",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67656300005f1f5b987d3eec4b11c487b3e5ae",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6765630000f68d5b987d3eec4b11c487b3e5ae",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "is_playable": true,
+                "language": "en",
+                "languages": [
+                    "en"
+                ],
+                "name": "PEDIHNYA BELENGGU SANTET MBA LEHA PART 1",
+                "release_date": "2024-05-15",
+                "release_date_precision": "day",
+                "type": "episode",
+                "uri": "spotify:episode:4z794p0ssHztkIzP8pImgl"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Hitmaker Studio",
+        "logo": "/img/clients/hitmaker.png",
+        "link": "https://hitmakerstudios.com/"
+    },
+    {
+        "name": "Soraya",
+        "logo": "/img/clients/soraya.png",
+        "link": "https://sorayafilms.com/"
+    },
+    {
+        "name": "Multivision Plus",
+        "logo": "/img/clients/mvp.png",
+        "link": "https://www.mvpworld.com/"
+    },
+    {
+        "name": "MD Entertainment",
+        "logo": "/img/clients/md.png",
+        "link": "https://mdentertainment.com/"
+    },
+    {
+        "name": "Leo Pictures",
+        "logo": "/img/clients/Leo.png",
+        "link": "https://leopictures.co.id/"
+    },
+    {
+        "name": "MPS Pictures",
+        "logo": "/img/clients/mps.png",
+        "link": "https://www.instagram.com/mpspictures.id/"
+    },
+    {
+        "name": "Studio Kucing Hitam",
+        "logo": "/img/clients/kucing hitam.png",
+        "link": "https://www.instagram.com/kucinghitampictures/"
+    },
+    {
+        "name": "RA Pictures",
+        "logo": "/img/clients/ra picture.png",
+        "link": "https://www.rapictures.id/"
+    },
+    {
+        "name": "Mega Kreasi Films",
+        "logo": "/img/clients/MKF.png",
+        "link": "https://www.instagram.com/mkf_official/?hl=id"
+    }
+]

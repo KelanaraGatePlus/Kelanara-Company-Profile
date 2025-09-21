@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "SOSOK POCONG GANTUNG DI KOST REGO NYOWO!",
+      "description": "",
+      "thumbnail": "/images/podcast1.jpg",
+      "duration": 1800,  
+      "audioUrl": "https://open.spotify.com/embed/episode/1uvQVhMVslmhdrDlLq60vS?si=f5a67f19d0e34d6e"
+    },
+    {
+      "id": 2,
+      "title": "FILM JALAN PULANG- THE CREATORS",
+      "description": "",
+      "thumbnail": "/images/podcast2.jpg",
+      "duration": 1800,  
+      "audioUrl": "https://open.spotify.com/embed/episode/3K6UEriYA64lCGX2MuCcjo?si=Su3_2IRoQCqwu7NeDt-CVw"
+    },
+    {
+      "id": 3,
+      "title": "MISTERI TALI POCONG: JIMAT KEMATIAN YANG MEMBERIKAN KEKUATAN SUPERNATURAL!",
+      "description": "",
+      "thumbnail": "/images/podcast3.jpg",
+      "duration": 2400,
+      "audioUrl": "https://open.spotify.com/embed/episode/2RMc1Tp1cV1g47kkLcb8nG?si=dsCA7R42Sl2W5KTLyuUCzQ"
+    },
+    {
+      "id": 4,
+      "title": "TRAGEDI GEGER SANTET BANYUWANGI 1998",
+      "description": "",
+      "thumbnail": "/images/podcast4.jpg",
+      "duration": 1500,
+      "audioUrl": "https://open.spotify.com/embed/episode/4js8jGwDqnwjHa4qNfsQCs?si=0744e717ef4d4436"
+    },
+    {
+      "id": 5,
+      "title": "VLAD III: PANERAN WALLACHIA YANG MENGINSPIRASI DRAKULA",
+      "description": "",
+      "thumbnail": "/images/podcast5.jpg",
+      "duration": 1500,
+      "audioUrl": "https://open.spotify.com/embed/episode/2eUl7qNvBpONyjhhu2jSEi?si=01eecf2dadf041cf"
+    }
+]
+  
